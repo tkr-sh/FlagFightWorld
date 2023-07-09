@@ -1,0 +1,214 @@
+@import "Variables.scss";
+
+
+
+.training {
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+
+    &::-webkit-scrollbar { display: none }
+
+
+    a {
+        all: unset;
+        width: 100%;
+        
+    }
+    
+    
+    header {
+        width: 100%;
+        text-align: center;
+        font-size: 36px;
+        font-weight: 600;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        column-gap: 5px;
+
+        img {
+            height: 35px;
+
+            &:hover + div {
+                display: block;
+            }
+        }
+
+        span {
+            cursor: pointer;
+
+            div {
+                font-weight: 500;
+                font-size: 14px;
+                background-color: $div-color;
+                opacity: 0.95;
+                padding: 10px;
+                position: absolute;
+                display: none;
+                border-radius: 5px;
+                transform: translateX(calc(-100% + 50px));
+                width: 50vw;
+            }
+        }
+    }
+    
+    
+    main {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        row-gap: 5px;
+
+        img {
+            height: 30px;
+        }
+
+        button {
+            width: 100%;
+            border: none;
+            background-color: $main-color;
+            border-radius: 5px;
+            color: #fff;
+            font-weight: 600;
+            font-size: 30px;
+            padding: 2vh;
+            transition: .3s;
+            cursor: pointer;
+            column-gap: 5px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+    
+            &:hover {
+                background-color: lighten($main-color, 5%);
+            }
+        }
+    }
+
+    @media (width <= $small-width) {
+
+        header {
+            font-size: 26px;
+
+            img {
+                height: 30px;
+            }
+        }
+
+        main {
+            button {
+                font-size: 22px;
+            }
+        }
+    }
+}
+
+
+.custom-content {
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+}
+
+
+.custom {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    align-items: center;
+    height: auto;
+    row-gap: 10px;
+    overflow-y: auto;
+    overflow-x: auto;
+
+    a {
+        width: 100%;
+    }
+
+    .go {
+        border: none;
+        border-radius: 30px;
+        background-color: $main-color;
+        height: 60px;
+        width: 100%;
+        font-size: 30px;
+        font-weight: 900;
+        color: #fff;
+        transition: .3s;
+        cursor: pointer;
+
+        &:hover {
+            background-color: lighten($color: $main-color, $amount: 10%);
+        }
+
+    }
+
+
+    section {
+        width: calc(100% - 20px); 
+        height: 100px;
+        background-color: $div-color;
+        overflow: hidden;
+        padding: 10px;
+        border-radius: 10px;
+        transition: .3s;
+
+        .hide-and-show {
+            height: 30px;
+            transform: rotateZ(-90deg);
+        }
+
+        header {
+            font-size: 36px;
+            display: flex;
+            align-items: center;
+            column-gap: 5px;
+            font-weight: 600;
+            height: 50px;
+            cursor: pointer;
+        }
+
+        main {
+            display: none;
+            padding-top: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            column-gap: 5px;
+            flex-wrap: wrap;
+            row-gap: 5px;
+            transition: .3s;
+
+            button {
+                border: none;
+                cursor: pointer;
+                border-radius: 5px;
+                min-width: 10vw;
+                background-color: #3B5;
+                color: #fff;
+                transition: .3s;
+                font-weight: 600;
+                font-size: 30px;
+                height: 55px;
+                padding-inline: 15px;
+                overflow: hidden;
+                text-overflow: ellipsis;
+                white-space: pre;
+
+                &:hover {
+                    background-color: lighten(#3B5, 10%);
+                    font-size: 33px;
+                }
+
+                @media (width < $small-width) {
+                    width: 100%;
+                }
+            }
+        }
+    }
+}

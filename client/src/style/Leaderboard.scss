@@ -1,0 +1,304 @@
+@import "Variables.scss";
+@import "Page.scss";
+
+.Leaderboard {
+
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    row-gap: 10px;
+
+    a {
+        all: unset;
+        cursor: pointer;
+        width: 100%;
+        height: 100%;
+    }
+
+    .parameters {
+        width: 100%;
+        height: 110px;
+        background-color: $div-color;
+        display: flex;
+        flex-direction: column;
+        border-radius: 10px;
+
+
+        section {
+            height: 50px;
+            padding-inline: 5%;
+            font-weight: 600;
+            transform: translateY(-15px);
+            position: relative;
+            z-index: 990;
+
+            img {
+                height: 20px;
+                border-radius: 3px;
+                margin-right: 5px;
+            }
+        }
+
+        .type-leaderboard {
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            column-gap: 10px;
+            font-weight: 600;
+            height: 50px;
+
+            @media screen and (max-width: $small-width) {
+                font-size: 10px;
+            }
+        }
+
+
+        /* The switch - the box around the slider */
+        .switch {
+            position: relative;
+            display: inline-block;
+            width: 60px;
+            height: 34px;
+
+            // Hide the default HTML checkbox
+            input {
+                opacity: 0;
+                width: 0;
+                height: 0;
+            }
+        }
+        
+        
+        /* The slider */
+        .slider {
+            position: absolute;
+            cursor: pointer;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: #ccc;
+            -webkit-transition: .4s;
+            transition: .4s;
+            border-radius: 34px;
+
+            &:before {
+                position: absolute;
+                content: "";
+                height: 26px;
+                width: 26px;
+                left: 4px;
+                bottom: 4px;
+                background-color: white;
+                -webkit-transition: .4s;
+                transition: .4s;
+                border-radius: 50%;
+            }
+
+        }
+        
+        
+        input:checked + .slider {
+            background-color: $main-color;
+        }
+        
+        input:focus + .slider {
+            box-shadow: 0 0 1px $main-color;
+        }
+        
+        input:checked + .slider:before {
+            -webkit-transform: translateX(26px);
+            -ms-transform: translateX(26px);
+            transform: translateX(26px);
+        }
+        
+
+
+
+        .select {
+            width: calc(100% - 10px);
+            color: #fff;
+            background-color: lighten($div-color, 5%);
+            border: none;
+            border-radius: 5px;
+            height: 30px;
+            align-items: center;
+            display: flex;
+            padding-left: 10px;
+            cursor: pointer;
+        }
+
+
+        .options {
+            padding-inline: 10px;
+            background-color: $dav-color;
+            z-index: 999;
+            position: relative;
+            padding-block: 5px;
+            border-radius: 5px;
+            display: flex;
+            flex-direction: column;
+            row-gap: 3px;
+            max-height: calc(100vh - 300px);
+            overflow: auto;
+
+            button {
+                border: none;
+                column-gap: 5px;
+                color: #fff;
+                cursor: pointer;
+                border-radius: 3px;
+                height: 25px;
+                padding-inline: 5px;
+                display: flex;
+                align-items: center;
+                position: relative;
+                z-index: 999;
+                background-color: $div-color;
+                transition: .3s;
+
+                span {
+                    overflow: hidden;
+                    white-space: nowrap;
+                    text-overflow: ellipsis;
+                }
+
+
+                &:hover {
+                    background-color: lighten($div-color, 5%);
+                }
+            }
+        }
+        
+        button {
+
+        }
+    }
+
+
+    main {
+        overflow: hidden;
+
+        max-height: auto;
+      
+        background-color: $div-color;
+        width: 96%;
+        height: 100%;
+        flex-grow: 100;
+        border-radius: 10px;
+        overflow: hidden;
+        display: flex;
+        flex-direction: column;
+        padding-inline: 2%;
+
+        overflow: auto;
+
+        table {
+            max-height: 100px;
+            width: 100%;
+            display: table;
+            table-layout:fixed;
+            border-spacing: 0 3px;
+            border-collapse: separate;
+            overflow: auto;
+        }
+
+        tbody {
+            max-height: 100px;
+            overflow: auto;
+        }
+
+        thead {
+            td {
+                background-color: #0000 !important;
+            }
+        }
+
+        tr {
+            border-radius: 115px;
+            height: 30px;
+            width: 100%;
+            white-space: nowrap;
+            text-align: center;
+            border-collapse: separate;
+            margin-bottom: 10px;
+            transition: .3s;
+            position: relative;
+
+            &:hover {
+                filter: brightness(110%);
+            }
+
+            td {
+                max-height: 30px;
+                vertical-align: middle;
+                border: none;
+                background-color: lighten($div-color, 5%);
+            }
+
+            // Style for the rank
+            .lb-rank {
+                width: 40px;
+                font-size: 12px;
+                color: lighten($color: ($main-color), $amount: 50%);
+                border-radius: 5px 0 0 5px;
+            }
+
+            // Style for the flag
+            .lb-flag {
+                width: 50px;
+                div {
+                    width: 100%;
+                    height: 30px;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+
+                }
+                img {
+                    height: 25px;
+                    border-radius: 3px;
+                }
+            }
+
+            // Style for the name
+            .lb-name {
+                width: 100%;
+                text-align: left;
+                color: lighten($color: ($main-color), $amount: 45%);
+                overflow: hidden;
+                text-overflow: ellipsis;
+            }
+
+            // Style for the total elo
+            .lb-tot-elo {
+                width: 80px;
+                font-weight: 600;
+            }
+
+            // Style for the amount of players
+            .lb-players {
+                width: 80px;
+                color: lighten($color: ($main-color), $amount: 45%);
+            }
+
+            // Style for the mean of elo
+            .lb-mean-elo {
+                width: 80px;
+                color: lighten($color: ($main-color), $amount: 45%);
+                border-radius: 0 5px 5px 0;
+            }
+
+
+            @media screen and (max-width: $small-width) {
+                .lb-rank { width: 30px;}
+                .lb-flag { width: 40px;}
+                .lb-mean-elo {display: none;}
+                .lb-tot-elo { width: 60px;}
+                .lb-players { width: 70px; border-radius: 0 5px 5px 0; }
+            }
+        }
+    }
+}

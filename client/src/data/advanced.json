@@ -1,0 +1,2900 @@
+[
+	{
+		"name": "Russia",
+		"difficulty": 1,
+		"extension": "ru",
+		"traductions": 312,
+		"population": 147182123,
+		"isCountry": true,
+		"continent": "Europe"
+	},
+	{
+		"name": "Japan",
+		"difficulty": 1,
+		"extension": "jp",
+		"traductions": 312,
+		"population": 124214766,
+		"isCountry": true,
+		"continent": "Asia"
+	},
+	{
+		"name": "Finland",
+		"difficulty": 1,
+		"extension": "fi",
+		"traductions": 312,
+		"population": 5553000,
+		"isCountry": true,
+		"continent": "Europe"
+	},
+	{
+		"name": "United States",
+		"difficulty": 1,
+		"extension": "us",
+		"traductions": 308,
+		"population": 333287557,
+		"isCountry": true,
+		"continent": "North America"
+	},
+	{
+		"name": "Turkey",
+		"difficulty": 1,
+		"extension": "tr",
+		"traductions": 308,
+		"population": 84680273,
+		"isCountry": true,
+		"continent": "Europe"
+	},
+	{
+		"name": "Mexico",
+		"difficulty": 1,
+		"extension": "mx",
+		"traductions": 308,
+		"population": 129150971,
+		"isCountry": true,
+		"continent": "Central America and Caribbean"
+	},
+	{
+		"name": "Italy",
+		"difficulty": 1,
+		"extension": "it",
+		"traductions": 307,
+		"population": 58853482,
+		"isCountry": true,
+		"continent": "Europe"
+	},
+	{
+		"name": "China",
+		"difficulty": 1,
+		"extension": "cn",
+		"traductions": 300,
+		"population": 1410539758,
+		"isCountry": true,
+		"continent": "Asia"
+	},
+	{
+		"name": "Norway",
+		"difficulty": 1,
+		"extension": "no",
+		"traductions": 299,
+		"population": 5425270,
+		"isCountry": true,
+		"continent": "Europe"
+	},
+	{
+		"name": "Chile",
+		"difficulty": 1,
+		"extension": "cl",
+		"traductions": 296,
+		"population": 18430408,
+		"isCountry": true,
+		"continent": "South America"
+	},
+	{
+		"name": "France",
+		"difficulty": 1,
+		"extension": "fr",
+		"traductions": 295,
+		"population": 67897000,
+		"isCountry": true,
+		"continent": "Europe"
+	},
+	{
+		"name": "Germany",
+		"difficulty": 1,
+		"extension": "de",
+		"traductions": 295,
+		"population": 83695430,
+		"isCountry": true,
+		"continent": "Europe"
+	},
+	{
+		"name": "Poland",
+		"difficulty": 1,
+		"extension": "pl",
+		"traductions": 294,
+		"population": 38036118,
+		"isCountry": true,
+		"continent": "Europe"
+	},
+	{
+		"name": "Europe",
+		"difficulty": 1,
+		"extension": "eu",
+		"traductions": 294,
+		"population": "None",
+		"isCountry": false,
+		"continent": "Europe"
+	},
+	{
+		"name": "Ukraine",
+		"difficulty": 1,
+		"extension": "ua",
+		"traductions": 292,
+		"population": 41167336,
+		"isCountry": true,
+		"continent": "Europe"
+	},
+	{
+		"name": "India",
+		"difficulty": 1,
+		"extension": "in",
+		"traductions": 292,
+		"population": 1375586000,
+		"isCountry": true,
+		"continent": "Asia"
+	},
+	{
+		"name": "Spain",
+		"difficulty": 1,
+		"extension": "es",
+		"traductions": 292,
+		"population": 47163418,
+		"isCountry": true,
+		"continent": "Europe"
+	},
+	{
+		"name": "Canada",
+		"difficulty": 1,
+		"extension": "ca",
+		"traductions": 292,
+		"population": 39292355,
+		"isCountry": true,
+		"continent": "North America"
+	},
+	{
+		"name": "Brazil",
+		"difficulty": 1,
+		"extension": "br",
+		"traductions": 286,
+		"population": 217240060,
+		"isCountry": true,
+		"continent": "South America"
+	},
+	{
+		"name": "Australia",
+		"difficulty": 1,
+		"extension": "au",
+		"traductions": 286,
+		"population": 26021400,
+		"isCountry": true,
+		"continent": "Oceania"
+	},
+	{
+		"name": "United Kingdom",
+		"difficulty": 1,
+		"extension": "gb",
+		"traductions": 285,
+		"population": 67791400,
+		"isCountry": true,
+		"continent": "Europe"
+	},
+	{
+		"name": "Vietnam",
+		"difficulty": 1,
+		"extension": "vn",
+		"traductions": 284,
+		"population": 103808319,
+		"isCountry": true,
+		"continent": "Asia"
+	},
+	{
+		"name": "Austria",
+		"difficulty": 1,
+		"extension": "at",
+		"traductions": 284,
+		"population": 9027999,
+		"isCountry": true,
+		"continent": "Europe"
+	},
+	{
+		"name": "Azerbaijan",
+		"difficulty": 1,
+		"extension": "az",
+		"traductions": 283,
+		"population": 10353296,
+		"isCountry": true,
+		"continent": "Asia"
+	},
+	{
+		"name": "Colombia",
+		"difficulty": 1,
+		"extension": "co",
+		"traductions": 282,
+		"population": 52156254,
+		"isCountry": true,
+		"continent": "South America"
+	},
+	{
+		"name": "Switzerland",
+		"difficulty": 1,
+		"extension": "ch",
+		"traductions": 282,
+		"population": 8636896,
+		"isCountry": true,
+		"continent": "Europe"
+	},
+	{
+		"name": "Argentina",
+		"difficulty": 1,
+		"extension": "ar",
+		"traductions": 282,
+		"population": 47327407,
+		"isCountry": true,
+		"continent": "South America"
+	},
+	{
+		"name": "Greece",
+		"difficulty": 1,
+		"extension": "gr",
+		"traductions": 281,
+		"population": 10432481,
+		"isCountry": true,
+		"continent": "Europe"
+	},
+	{
+		"name": "Portugal",
+		"difficulty": 1,
+		"extension": "pt",
+		"traductions": 280,
+		"population": 10352042,
+		"isCountry": true,
+		"continent": "Europe"
+	},
+	{
+		"name": "Egypt",
+		"difficulty": 1,
+		"extension": "eg",
+		"traductions": 280,
+		"population": 107770524,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "Estonia",
+		"difficulty": 1,
+		"extension": "ee",
+		"traductions": 280,
+		"population": 1331796,
+		"isCountry": true,
+		"continent": "Europe"
+	},
+	{
+		"name": "Bulgaria",
+		"difficulty": 1,
+		"extension": "bg",
+		"traductions": 280,
+		"population": 6520314,
+		"isCountry": true,
+		"continent": "Europe"
+	},
+	{
+		"name": "Netherlands",
+		"difficulty": 1,
+		"extension": "nl",
+		"traductions": 279,
+		"population": 17778200,
+		"isCountry": true,
+		"continent": "Europe"
+	},
+	{
+		"name": "Iran",
+		"difficulty": 1,
+		"extension": "ir",
+		"traductions": 279,
+		"population": 86758304,
+		"isCountry": true,
+		"continent": "Asia"
+	},
+	{
+		"name": "Sweden",
+		"difficulty": 1,
+		"extension": "se",
+		"traductions": 278,
+		"population": 10481937,
+		"isCountry": true,
+		"continent": "Europe"
+	},
+	{
+		"name": "Denmark",
+		"difficulty": 2,
+		"extension": "dk",
+		"traductions": 278,
+		"population": 5928364,
+		"isCountry": true,
+		"continent": "Europe"
+	},
+	{
+		"name": "Belgium",
+		"difficulty": 2,
+		"extension": "be",
+		"traductions": 278,
+		"population": 11584008,
+		"isCountry": true,
+		"continent": "Europe"
+	},
+	{
+		"name": "South Africa",
+		"difficulty": 2,
+		"extension": "za",
+		"traductions": 277,
+		"population": 60604992,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "Albania",
+		"difficulty": 2,
+		"extension": "al",
+		"traductions": 277,
+		"population": 2793592,
+		"isCountry": true,
+		"continent": "Europe"
+	},
+	{
+		"name": "Belarus",
+		"difficulty": 2,
+		"extension": "by",
+		"traductions": 276,
+		"population": 9413505,
+		"isCountry": true,
+		"continent": "Europe"
+	},
+	{
+		"name": "Lithuania",
+		"difficulty": 2,
+		"extension": "lt",
+		"traductions": 275,
+		"population": 2840758,
+		"isCountry": true,
+		"continent": "Europe"
+	},
+	{
+		"name": "Croatia",
+		"difficulty": 2,
+		"extension": "hr",
+		"traductions": 275,
+		"population": 3871833,
+		"isCountry": true,
+		"continent": "Europe"
+	},
+	{
+		"name": "United Nations",
+		"difficulty": 2,
+		"extension": "un",
+		"traductions": 274,
+		"population": "None",
+		"isCountry": false,
+		"continent": "None"
+	},
+	{
+		"name": "Czech Republic",
+		"difficulty": 2,
+		"extension": "cz",
+		"traductions": 274,
+		"population": 10516707,
+		"isCountry": false,
+		"continent": "Europe"
+	},
+	{
+		"name": "Israel",
+		"difficulty": 2,
+		"extension": "il",
+		"traductions": 272,
+		"population": 9624380,
+		"isCountry": true,
+		"continent": "Asia"
+	},
+	{
+		"name": "Indonesia",
+		"difficulty": 2,
+		"extension": "id",
+		"traductions": 271,
+		"population": 275773800,
+		"isCountry": true,
+		"continent": "Asia"
+	},
+	{
+		"name": "Iceland",
+		"difficulty": 2,
+		"extension": "is",
+		"traductions": 270,
+		"population": 376248,
+		"isCountry": true,
+		"continent": "Europe"
+	},
+	{
+		"name": "Andorra",
+		"difficulty": 2,
+		"extension": "ad",
+		"traductions": 270,
+		"population": 77543,
+		"isCountry": true,
+		"continent": "Europe"
+	},
+	{
+		"name": "Hungary",
+		"difficulty": 2,
+		"extension": "hu",
+		"traductions": 269,
+		"population": 9689000,
+		"isCountry": true,
+		"continent": "Europe"
+	},
+	{
+		"name": "Algeria",
+		"difficulty": 2,
+		"extension": "dz",
+		"traductions": 269,
+		"population": 44700000,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "Armenia",
+		"difficulty": 2,
+		"extension": "am",
+		"traductions": 269,
+		"population": 3000756,
+		"isCountry": true,
+		"continent": "Asia"
+	},
+	{
+		"name": "Serbia",
+		"difficulty": 2,
+		"extension": "rs",
+		"traductions": 268,
+		"population": 6690887,
+		"isCountry": true,
+		"continent": "Europe"
+	},
+	{
+		"name": "Afghanistan",
+		"difficulty": 2,
+		"extension": "af",
+		"traductions": 268,
+		"population": 38346720,
+		"isCountry": true,
+		"continent": "Asia"
+	},
+	{
+		"name": "Slovakia",
+		"difficulty": 2,
+		"extension": "sk",
+		"traductions": 267,
+		"population": 5460185,
+		"isCountry": true,
+		"continent": "Europe"
+	},
+	{
+		"name": "Romania",
+		"difficulty": 2,
+		"extension": "ro",
+		"traductions": 267,
+		"population": 19038098,
+		"isCountry": true,
+		"continent": "Europe"
+	},
+	{
+		"name": "Bosnia and Herzegovina",
+		"difficulty": 2,
+		"extension": "ba",
+		"traductions": 265,
+		"population": 3475000,
+		"isCountry": true,
+		"continent": "Europe"
+	},
+	{
+		"name": "Kazakhstan",
+		"difficulty": 2,
+		"extension": "kz",
+		"traductions": 264,
+		"population": 19398331,
+		"isCountry": true,
+		"continent": "Asia"
+	},
+	{
+		"name": "Slovenia",
+		"difficulty": 2,
+		"extension": "si",
+		"traductions": 263,
+		"population": 2108708,
+		"isCountry": true,
+		"continent": "Europe"
+	},
+	{
+		"name": "Latvia",
+		"difficulty": 2,
+		"extension": "lv",
+		"traductions": 263,
+		"population": 1842226,
+		"isCountry": true,
+		"continent": "Europe"
+	},
+	{
+		"name": "Luxembourg",
+		"difficulty": 2,
+		"extension": "lu",
+		"traductions": 263,
+		"population": 645397,
+		"isCountry": true,
+		"continent": "Europe"
+	},
+	{
+		"name": "South Korea",
+		"difficulty": 2,
+		"extension": "kr",
+		"traductions": 262,
+		"population": 51844834,
+		"isCountry": true,
+		"continent": "Asia"
+	},
+	{
+		"name": "Ireland",
+		"difficulty": 2,
+		"extension": "ie",
+		"traductions": 262,
+		"population": 7026636,
+		"isCountry": true,
+		"continent": "Europe"
+	},
+	{
+		"name": "Georgia",
+		"difficulty": 2,
+		"extension": "ge",
+		"traductions": 262,
+		"population": "None",
+		"isCountry": true,
+		"continent": "Asia"
+	},
+	{
+		"name": "Bangladesh",
+		"difficulty": 2,
+		"extension": "bd",
+		"traductions": 262,
+		"population": 165158616,
+		"isCountry": true,
+		"continent": "Asia"
+	},
+	{
+		"name": "Pakistan",
+		"difficulty": 2,
+		"extension": "pk",
+		"traductions": 261,
+		"population": 242923845,
+		"isCountry": true,
+		"continent": "Asia"
+	},
+	{
+		"name": "Ethiopia",
+		"difficulty": 2,
+		"extension": "et",
+		"traductions": 261,
+		"population": 113656596,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "New Zealand",
+		"difficulty": 2,
+		"extension": "nz",
+		"traductions": 260,
+		"population": 5136060,
+		"isCountry": true,
+		"continent": "Oceania"
+	},
+	{
+		"name": "Malaysia",
+		"difficulty": 2,
+		"extension": "my",
+		"traductions": 259,
+		"population": 33871431,
+		"isCountry": true,
+		"continent": "Asia"
+	},
+	{
+		"name": "Malta",
+		"difficulty": 2,
+		"extension": "mt",
+		"traductions": 259,
+		"population": 519562,
+		"isCountry": true,
+		"continent": "Europe"
+	},
+	{
+		"name": "Moldova",
+		"difficulty": 2,
+		"extension": "md",
+		"traductions": 259,
+		"population": 2603813,
+		"isCountry": true,
+		"continent": "Europe"
+	},
+	{
+		"name": "Thailand",
+		"difficulty": 3,
+		"extension": "th",
+		"traductions": 258,
+		"population": 69648117,
+		"isCountry": true,
+		"continent": "Asia"
+	},
+	{
+		"name": "Venezuela",
+		"difficulty": 3,
+		"extension": "ve",
+		"traductions": 257,
+		"population": 29789730,
+		"isCountry": true,
+		"continent": "South America"
+	},
+	{
+		"name": "Vatican",
+		"difficulty": 3,
+		"extension": "va",
+		"traductions": 257,
+		"population": "None",
+		"isCountry": false,
+		"continent": "Europe"
+	},
+	{
+		"name": "Saudi Arabia",
+		"difficulty": 3,
+		"extension": "sa",
+		"traductions": 256,
+		"population": 38401000,
+		"isCountry": true,
+		"continent": "Asia"
+	},
+	{
+		"name": "Philippines",
+		"difficulty": 3,
+		"extension": "ph",
+		"traductions": 256,
+		"population": 109035343,
+		"isCountry": true,
+		"continent": "Asia"
+	},
+	{
+		"name": "Nigeria",
+		"difficulty": 3,
+		"extension": "ng",
+		"traductions": 256,
+		"population": 225082083,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "Iraq",
+		"difficulty": 3,
+		"extension": "iq",
+		"traductions": 256,
+		"population": 40462701,
+		"isCountry": true,
+		"continent": "Asia"
+	},
+	{
+		"name": "Monaco",
+		"difficulty": 3,
+		"extension": "mc",
+		"traductions": 255,
+		"population": 38300,
+		"isCountry": true,
+		"continent": "Europe"
+	},
+	{
+		"name": "Liechtenstein",
+		"difficulty": 3,
+		"extension": "li",
+		"traductions": 255,
+		"population": 38387,
+		"isCountry": true,
+		"continent": "Europe"
+	},
+	{
+		"name": "San Marino",
+		"difficulty": 3,
+		"extension": "sm",
+		"traductions": 253,
+		"population": 33600,
+		"isCountry": true,
+		"continent": "Europe"
+	},
+	{
+		"name": "Cyprus",
+		"difficulty": 3,
+		"extension": "cy",
+		"traductions": 253,
+		"population": 1244188,
+		"isCountry": true,
+		"continent": "Europe"
+	},
+	{
+		"name": "Cuba",
+		"difficulty": 3,
+		"extension": "cu",
+		"traductions": 253,
+		"population": 11008112,
+		"isCountry": true,
+		"continent": "Central America and Caribbean"
+	},
+	{
+		"name": "Angola",
+		"difficulty": 3,
+		"extension": "ao",
+		"traductions": 253,
+		"population": 34795287,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "North Macedonia",
+		"difficulty": 3,
+		"extension": "mk",
+		"traductions": 252,
+		"population": 1836713,
+		"isCountry": true,
+		"continent": "Europe"
+	},
+	{
+		"name": "Kenya",
+		"difficulty": 3,
+		"extension": "ke",
+		"traductions": 252,
+		"population": 55864655,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "Ghana",
+		"difficulty": 3,
+		"extension": "gh",
+		"traductions": 252,
+		"population": 32103042,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "Morocco",
+		"difficulty": 3,
+		"extension": "ma",
+		"traductions": 251,
+		"population": 37984655,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "Singapore",
+		"difficulty": 3,
+		"extension": "sg",
+		"traductions": 250,
+		"population": 5637000,
+		"isCountry": true,
+		"continent": "Asia"
+	},
+	{
+		"name": "Peru",
+		"difficulty": 3,
+		"extension": "pe",
+		"traductions": 250,
+		"population": 32275736,
+		"isCountry": true,
+		"continent": "South America"
+	},
+	{
+		"name": "Bolivia",
+		"difficulty": 3,
+		"extension": "bo",
+		"traductions": 250,
+		"population": 12054379,
+		"isCountry": true,
+		"continent": "South America"
+	},
+	{
+		"name": "Syria",
+		"difficulty": 3,
+		"extension": "sy",
+		"traductions": 248,
+		"population": 22125249,
+		"isCountry": true,
+		"continent": "Asia"
+	},
+	{
+		"name": "Nepal",
+		"difficulty": 3,
+		"extension": "np",
+		"traductions": 248,
+		"population": 30666598,
+		"isCountry": true,
+		"continent": "Asia"
+	},
+	{
+		"name": "Mongolia",
+		"difficulty": 3,
+		"extension": "mn",
+		"traductions": 248,
+		"population": 3227863,
+		"isCountry": true,
+		"continent": "Asia"
+	},
+	{
+		"name": "The Democratic Republic of Congo",
+		"difficulty": 3,
+		"extension": "cd",
+		"traductions": 248,
+		"population": 108407721,
+		"isCountry": false,
+		"continent": "Africa"
+	},
+	{
+		"name": "Tanzania",
+		"difficulty": 3,
+		"extension": "tz",
+		"traductions": 247,
+		"population": 61741120,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "Montenegro",
+		"difficulty": 3,
+		"extension": "me",
+		"traductions": 247,
+		"population": 620739,
+		"isCountry": true,
+		"continent": "Europe"
+	},
+	{
+		"name": "Libya",
+		"difficulty": 3,
+		"extension": "ly",
+		"traductions": 247,
+		"population": 7054493,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "Cambodia",
+		"difficulty": 3,
+		"extension": "kh",
+		"traductions": 246,
+		"population": 16713015,
+		"isCountry": true,
+		"continent": "Asia"
+	},
+	{
+		"name": "Lebanon",
+		"difficulty": 3,
+		"extension": "lb",
+		"traductions": 245,
+		"population": 5296814,
+		"isCountry": true,
+		"continent": "Asia"
+	},
+	{
+		"name": "Laos",
+		"difficulty": 3,
+		"extension": "la",
+		"traductions": 245,
+		"population": 7749595,
+		"isCountry": true,
+		"continent": "Asia"
+	},
+	{
+		"name": "Botswana",
+		"difficulty": 3,
+		"extension": "bw",
+		"traductions": 245,
+		"population": 2384246,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "Antarctica",
+		"difficulty": 3,
+		"extension": "aq",
+		"traductions": 245,
+		"population": "None",
+		"isCountry": false,
+		"continent": "None"
+	},
+	{
+		"name": "Sudan",
+		"difficulty": 3,
+		"extension": "sd",
+		"traductions": 244,
+		"population": 47958856,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "Namibia",
+		"difficulty": 3,
+		"extension": "na",
+		"traductions": 244,
+		"population": 2550226,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "Bhutan",
+		"difficulty": 3,
+		"extension": "bt",
+		"traductions": 244,
+		"population": 777486,
+		"isCountry": true,
+		"continent": "Asia"
+	},
+	{
+		"name": "Tunisia",
+		"difficulty": 4,
+		"extension": "tn",
+		"traductions": 243,
+		"population": 11708370,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "Chad",
+		"difficulty": 4,
+		"extension": "td",
+		"traductions": 243,
+		"population": 17963211,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "Paraguay",
+		"difficulty": 4,
+		"extension": "py",
+		"traductions": 243,
+		"population": 7356409,
+		"isCountry": true,
+		"continent": "South America"
+	},
+	{
+		"name": "Myanmar",
+		"difficulty": 4,
+		"extension": "mm",
+		"traductions": 243,
+		"population": 57526449,
+		"isCountry": true,
+		"continent": "Asia"
+	},
+	{
+		"name": "Benin",
+		"difficulty": 4,
+		"extension": "bj",
+		"traductions": 243,
+		"population": 13754688,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "Madagascar",
+		"difficulty": 4,
+		"extension": "mg",
+		"traductions": 242,
+		"population": 28172462,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "North Korea",
+		"difficulty": 4,
+		"extension": "kp",
+		"traductions": 242,
+		"population": 25955138,
+		"isCountry": true,
+		"continent": "Asia"
+	},
+	{
+		"name": "Zimbabwe",
+		"difficulty": 4,
+		"extension": "zw",
+		"traductions": 241,
+		"population": 15121004,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "Somalia",
+		"difficulty": 4,
+		"extension": "so",
+		"traductions": 241,
+		"population": 17066000,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "Eritrea",
+		"difficulty": 4,
+		"extension": "er",
+		"traductions": 241,
+		"population": 6209262,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "Ecuador",
+		"difficulty": 4,
+		"extension": "ec",
+		"traductions": 241,
+		"population": 17289554,
+		"isCountry": true,
+		"continent": "South America"
+	},
+	{
+		"name": "Ivory Coast",
+		"difficulty": 4,
+		"extension": "ci",
+		"traductions": 241,
+		"population": 29389150,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "Uruguay",
+		"difficulty": 4,
+		"extension": "uy",
+		"traductions": 240,
+		"population": 3407213,
+		"isCountry": true,
+		"continent": "South America"
+	},
+	{
+		"name": "Kyrgyzstan",
+		"difficulty": 4,
+		"extension": "kg",
+		"traductions": 240,
+		"population": 7000000,
+		"isCountry": true,
+		"continent": "Asia"
+	},
+	{
+		"name": "Cameroon",
+		"difficulty": 4,
+		"extension": "cm",
+		"traductions": 240,
+		"population": 29321637,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "Brunei",
+		"difficulty": 4,
+		"extension": "bn",
+		"traductions": 240,
+		"population": 460345,
+		"isCountry": true,
+		"continent": "Asia"
+	},
+	{
+		"name": "Tajikistan",
+		"difficulty": 4,
+		"extension": "tj",
+		"traductions": 239,
+		"population": 9119347,
+		"isCountry": true,
+		"continent": "Asia"
+	},
+	{
+		"name": "Bahrain",
+		"difficulty": 4,
+		"extension": "bh",
+		"traductions": 239,
+		"population": 1463265,
+		"isCountry": true,
+		"continent": "Asia"
+	},
+	{
+		"name": "Zambia",
+		"difficulty": 4,
+		"extension": "zm",
+		"traductions": 238,
+		"population": 19642123,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "Uganda",
+		"difficulty": 4,
+		"extension": "ug",
+		"traductions": 238,
+		"population": 45853778,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "Jordan",
+		"difficulty": 4,
+		"extension": "jo",
+		"traductions": 238,
+		"population": 11042719,
+		"isCountry": true,
+		"continent": "Asia"
+	},
+	{
+		"name": "Burundi",
+		"difficulty": 4,
+		"extension": "bi",
+		"traductions": 238,
+		"population": 11865821,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "Yemen",
+		"difficulty": 4,
+		"extension": "ye",
+		"traductions": 237,
+		"population": 30984689,
+		"isCountry": true,
+		"continent": "Asia"
+	},
+	{
+		"name": "Uzbekistan",
+		"difficulty": 4,
+		"extension": "uz",
+		"traductions": 237,
+		"population": 36001262,
+		"isCountry": true,
+		"continent": "Asia"
+	},
+	{
+		"name": "Mozambique",
+		"difficulty": 4,
+		"extension": "mz",
+		"traductions": 237,
+		"population": 31693239,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "Burkina Faso",
+		"difficulty": 4,
+		"extension": "bf",
+		"traductions": 236,
+		"population": 21935389,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "Turkmenistan",
+		"difficulty": 4,
+		"extension": "tm",
+		"traductions": 235,
+		"population": 5636011,
+		"isCountry": true,
+		"continent": "Asia"
+	},
+	{
+		"name": "United Arab Emirates",
+		"difficulty": 4,
+		"extension": "ae",
+		"traductions": 235,
+		"population": 9282410,
+		"isCountry": true,
+		"continent": "Asia"
+	},
+	{
+		"name": "Togo",
+		"difficulty": 4,
+		"extension": "tg",
+		"traductions": 234,
+		"population": 8492333,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "Mali",
+		"difficulty": 4,
+		"extension": "ml",
+		"traductions": 234,
+		"population": 21473764,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "Sri Lanka",
+		"difficulty": 4,
+		"extension": "lk",
+		"traductions": 234,
+		"population": 22156000,
+		"isCountry": true,
+		"continent": "Asia"
+	},
+	{
+		"name": "Rwanda",
+		"difficulty": 4,
+		"extension": "rw",
+		"traductions": 233,
+		"population": 12955736,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "Qatar",
+		"difficulty": 4,
+		"extension": "qa",
+		"traductions": 233,
+		"population": 2795484,
+		"isCountry": true,
+		"continent": "Asia"
+	},
+	{
+		"name": "Mauritania",
+		"difficulty": 4,
+		"extension": "mr",
+		"traductions": 233,
+		"population": 4614974,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "Djibouti",
+		"difficulty": 4,
+		"extension": "dj",
+		"traductions": 233,
+		"population": 957273,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "Belize",
+		"difficulty": 5,
+		"extension": "bz",
+		"traductions": 233,
+		"population": 441471,
+		"isCountry": true,
+		"continent": "Central America and Caribbean"
+	},
+	{
+		"name": "Taiwan",
+		"difficulty": 5,
+		"extension": "tw",
+		"traductions": 232,
+		"population": 23894394,
+		"isCountry": false,
+		"continent": "Asia"
+	},
+	{
+		"name": "Liberia",
+		"difficulty": 5,
+		"extension": "lr",
+		"traductions": 232,
+		"population": 5358483,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "Gambia",
+		"difficulty": 5,
+		"extension": "gm",
+		"traductions": 232,
+		"population": 2413403,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "Gabon",
+		"difficulty": 5,
+		"extension": "ga",
+		"traductions": 232,
+		"population": 2340613,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "Central African Republic",
+		"difficulty": 5,
+		"extension": "cf",
+		"traductions": 232,
+		"population": 5454533,
+		"isCountry": false,
+		"continent": "Africa"
+	},
+	{
+		"name": "Senegal",
+		"difficulty": 5,
+		"extension": "sn",
+		"traductions": 231,
+		"population": 17196308,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "Kuwait",
+		"difficulty": 5,
+		"extension": "kw",
+		"traductions": 231,
+		"population": 4460000,
+		"isCountry": true,
+		"continent": "Asia"
+	},
+	{
+		"name": "Hong Kong",
+		"difficulty": 5,
+		"extension": "hk",
+		"traductions": 231,
+		"population": 7291600,
+		"isCountry": false,
+		"continent": "Asia"
+	},
+	{
+		"name": "Guatemala",
+		"difficulty": 5,
+		"extension": "gt",
+		"traductions": 231,
+		"population": 17703190,
+		"isCountry": true,
+		"continent": "Central America and Caribbean"
+	},
+	{
+		"name": "Costa Rica",
+		"difficulty": 5,
+		"extension": "cr",
+		"traductions": 231,
+		"population": 5204411,
+		"isCountry": true,
+		"continent": "Central America and Caribbean"
+	},
+	{
+		"name": "Republic of the Congo",
+		"difficulty": 5,
+		"extension": "cg",
+		"traductions": 231,
+		"population": 5546307,
+		"isCountry": false,
+		"continent": "Africa"
+	},
+	{
+		"name": "Jamaica",
+		"difficulty": 5,
+		"extension": "jm",
+		"traductions": 230,
+		"population": 2726667,
+		"isCountry": true,
+		"continent": "Central America and Caribbean"
+	},
+	{
+		"name": "Malawi",
+		"difficulty": 5,
+		"extension": "mw",
+		"traductions": 229,
+		"population": 20091635,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "Guinea",
+		"difficulty": 5,
+		"extension": "gn",
+		"traductions": 229,
+		"population": 13237832,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "England",
+		"difficulty": 5,
+		"extension": "en",
+		"traductions": 229,
+		"population": 56489800,
+		"isCountry": false,
+		"continent": "Europe"
+	},
+	{
+		"name": "Oman",
+		"difficulty": 5,
+		"extension": "om",
+		"traductions": 228,
+		"population": 4520471,
+		"isCountry": true,
+		"continent": "Asia"
+	},
+	{
+		"name": "Niger",
+		"difficulty": 5,
+		"extension": "ne",
+		"traductions": 228,
+		"population": 24484587,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "Guyana",
+		"difficulty": 5,
+		"extension": "gy",
+		"traductions": 228,
+		"population": 795408,
+		"isCountry": true,
+		"continent": "South America"
+	},
+	{
+		"name": "Cape Verde",
+		"difficulty": 5,
+		"extension": "cv",
+		"traductions": 228,
+		"population": 561901,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "Sierra Leone",
+		"difficulty": 5,
+		"extension": "sl",
+		"traductions": 227,
+		"population": 8692606,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "Honduras",
+		"difficulty": 5,
+		"extension": "hn",
+		"traductions": 227,
+		"population": 9459440,
+		"isCountry": true,
+		"continent": "Central America and Caribbean"
+	},
+	{
+		"name": "East Timor",
+		"difficulty": 5,
+		"extension": "tl",
+		"traductions": 226,
+		"population": 1340513,
+		"isCountry": false,
+		"continent": "Asia"
+	},
+	{
+		"name": "Panama",
+		"difficulty": 5,
+		"extension": "pa",
+		"traductions": 226,
+		"population": 4337768,
+		"isCountry": true,
+		"continent": "Central America and Caribbean"
+	},
+	{
+		"name": "Guinea-Bissau",
+		"difficulty": 5,
+		"extension": "gw",
+		"traductions": 226,
+		"population": 2026778,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "Eswatini",
+		"difficulty": 5,
+		"extension": "sz",
+		"traductions": 225,
+		"population": 1160164,
+		"isCountry": false,
+		"continent": "Africa"
+	},
+	{
+		"name": "Lesotho",
+		"difficulty": 5,
+		"extension": "ls",
+		"traductions": 225,
+		"population": 2281454,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "Suriname",
+		"difficulty": 5,
+		"extension": "sr",
+		"traductions": 224,
+		"population": 632638,
+		"isCountry": true,
+		"continent": "South America"
+	},
+	{
+		"name": "Papua New Guinea",
+		"difficulty": 5,
+		"extension": "pg",
+		"traductions": 224,
+		"population": 8935000,
+		"isCountry": true,
+		"continent": "Oceania"
+	},
+	{
+		"name": "Nicaragua",
+		"difficulty": 5,
+		"extension": "ni",
+		"traductions": 224,
+		"population": 6301880,
+		"isCountry": true,
+		"continent": "Central America and Caribbean"
+	},
+	{
+		"name": "Comoros",
+		"difficulty": 5,
+		"extension": "km",
+		"traductions": 224,
+		"population": 850886,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "Maldives",
+		"difficulty": 5,
+		"extension": "mv",
+		"traductions": 223,
+		"population": 579330392040,
+		"isCountry": true,
+		"continent": "Asia"
+	},
+	{
+		"name": "Bahamas",
+		"difficulty": 5,
+		"extension": "bs",
+		"traductions": 223,
+		"population": 400516,
+		"isCountry": true,
+		"continent": "Central America and Caribbean"
+	},
+	{
+		"name": "Haiti",
+		"difficulty": 5,
+		"extension": "ht",
+		"traductions": 222,
+		"population": 11334637,
+		"isCountry": true,
+		"continent": "Central America and Caribbean"
+	},
+	{
+		"name": "El Salvador",
+		"difficulty": 5,
+		"extension": "sv",
+		"traductions": 221,
+		"population": 6568745,
+		"isCountry": true,
+		"continent": "Central America and Caribbean"
+	},
+	{
+		"name": "Equatorial Guinea",
+		"difficulty": 6,
+		"extension": "gq",
+		"traductions": 221,
+		"population": 1679172,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "Barbados",
+		"difficulty": 6,
+		"extension": "bb",
+		"traductions": 221,
+		"population": 281635,
+		"isCountry": true,
+		"continent": "Central America and Caribbean"
+	},
+	{
+		"name": "Mauritius",
+		"difficulty": 6,
+		"extension": "mu",
+		"traductions": 219,
+		"population": 1265475,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "Antigua and Barbuda",
+		"difficulty": 6,
+		"extension": "ag",
+		"traductions": 217,
+		"population": 100772,
+		"isCountry": true,
+		"continent": "Central America and Caribbean"
+	},
+	{
+		"name": "Sao Tome and Principe",
+		"difficulty": 6,
+		"extension": "st",
+		"traductions": 213,
+		"population": 223107,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "South Sudan",
+		"difficulty": 6,
+		"extension": "ss",
+		"traductions": 212,
+		"population": 11544905,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "Seychelles",
+		"difficulty": 6,
+		"extension": "sc",
+		"traductions": 212,
+		"population": 100447,
+		"isCountry": true,
+		"continent": "Africa"
+	},
+	{
+		"name": "Fiji",
+		"difficulty": 6,
+		"extension": "fj",
+		"traductions": 212,
+		"population": 926276,
+		"isCountry": false,
+		"continent": "Oceania"
+	},
+	{
+		"name": "Dominica",
+		"difficulty": 6,
+		"extension": "dm",
+		"traductions": 211,
+		"population": 72412,
+		"isCountry": true,
+		"continent": "Central America and Caribbean"
+	},
+	{
+		"name": "Dominican Republic",
+		"difficulty": 6,
+		"extension": "do",
+		"traductions": 210,
+		"population": 10694700,
+		"isCountry": true,
+		"continent": "Central America and Caribbean"
+	},
+	{
+		"name": "Nauru",
+		"difficulty": 6,
+		"extension": "nr",
+		"traductions": 207,
+		"population": 10834,
+		"isCountry": true,
+		"continent": "Oceania"
+	},
+	{
+		"name": "Kosovo",
+		"difficulty": 6,
+		"extension": "kv",
+		"traductions": 207,
+		"population": 1806279,
+		"isCountry": false,
+		"continent": "Europe"
+	},
+	{
+		"name": "Scotland",
+		"difficulty": 6,
+		"extension": "ab",
+		"traductions": 207,
+		"population": 5463300,
+		"isCountry": false,
+		"continent": "Europe"
+	},
+	{
+		"name": "Palau",
+		"difficulty": 6,
+		"extension": "pw",
+		"traductions": 205,
+		"population": 18024,
+		"isCountry": true,
+		"continent": "Oceania"
+	},
+	{
+		"name": "Grenada",
+		"difficulty": 6,
+		"extension": "gd",
+		"traductions": 205,
+		"population": 124610,
+		"isCountry": true,
+		"continent": "Central America and Caribbean"
+	},
+	{
+		"name": "Vanuatu",
+		"difficulty": 6,
+		"extension": "vu",
+		"traductions": 204,
+		"population": 307815,
+		"isCountry": true,
+		"continent": "Oceania"
+	},
+	{
+		"name": "Samoa",
+		"difficulty": 6,
+		"extension": "ws",
+		"traductions": 203,
+		"population": 202506,
+		"isCountry": true,
+		"continent": "Oceania"
+	},
+	{
+		"name": "Trinidad and Tobago",
+		"difficulty": 6,
+		"extension": "tt",
+		"traductions": 203,
+		"population": 1405646,
+		"isCountry": true,
+		"continent": "Central America and Caribbean"
+	},
+	{
+		"name": "Tonga",
+		"difficulty": 6,
+		"extension": "to",
+		"traductions": 202,
+		"population": 100209,
+		"isCountry": true,
+		"continent": "Oceania"
+	},
+	{
+		"name": "Kiribati",
+		"difficulty": 6,
+		"extension": "ki",
+		"traductions": 202,
+		"population": 121388,
+		"isCountry": true,
+		"continent": "Oceania"
+	},
+	{
+		"name": "Tuvalu",
+		"difficulty": 6,
+		"extension": "tv",
+		"traductions": 201,
+		"population": 11900,
+		"isCountry": true,
+		"continent": "Oceania"
+	},
+	{
+		"name": "Saint Lucia",
+		"difficulty": 6,
+		"extension": "lc",
+		"traductions": 194,
+		"population": 184961,
+		"isCountry": true,
+		"continent": "Central America and Caribbean"
+	},
+	{
+		"name": "Greenland",
+		"difficulty": 6,
+		"extension": "gl",
+		"traductions": 194,
+		"population": 56466,
+		"isCountry": false,
+		"continent": "North America"
+	},
+	{
+		"name": "Solomon Islands",
+		"difficulty": 6,
+		"extension": "sb",
+		"traductions": 193,
+		"population": 707851,
+		"isCountry": true,
+		"continent": "Oceania"
+	},
+	{
+		"name": "Wales",
+		"difficulty": 6,
+		"extension": "wl",
+		"traductions": 192,
+		"population": 3267501,
+		"isCountry": false,
+		"continent": "Europe"
+	},
+	{
+		"name": "Saint Kitts and Nevis",
+		"difficulty": 6,
+		"extension": "kn",
+		"traductions": 192,
+		"population": 47606,
+		"isCountry": true,
+		"continent": "Central America and Caribbean"
+	},
+	{
+		"name": "Marshall Islands",
+		"difficulty": 6,
+		"extension": "mh",
+		"traductions": 191,
+		"population": 61988,
+		"isCountry": true,
+		"continent": "Oceania"
+	},
+	{
+		"name": "Macao",
+		"difficulty": 6,
+		"extension": "mo",
+		"traductions": 186,
+		"population": 682300,
+		"isCountry": false,
+		"continent": "Asia"
+	},
+	{
+		"name": "Saint Vincent and the Grenadines",
+		"difficulty": 6,
+		"extension": "vc",
+		"traductions": 183,
+		"population": 104332,
+		"isCountry": true,
+		"continent": "Central America and Caribbean"
+	},
+	{
+		"name": "Faroe Islands",
+		"difficulty": 6,
+		"extension": "fo",
+		"traductions": 171,
+		"population": 54000,
+		"isCountry": false,
+		"continent": "Europe"
+	},
+	{
+		"name": "Gibraltar",
+		"difficulty": 6,
+		"extension": "gi",
+		"traductions": 170,
+		"population": 34003,
+		"isCountry": false,
+		"continent": "Europe"
+	},
+	{
+		"name": "North Ireland",
+		"difficulty": 6,
+		"extension": "nd",
+		"traductions": 169,
+		"population": 1903100,
+		"isCountry": false,
+		"continent": "Europe"
+	},
+	{
+		"name": "Puerto Rico",
+		"difficulty": 6,
+		"extension": "pr",
+		"traductions": 168,
+		"population": 3285874,
+		"isCountry": false,
+		"continent": "Central America and Caribbean"
+	},
+	{
+		"name": "French Guiana",
+		"difficulty": 6,
+		"extension": "gf",
+		"traductions": 168,
+		"population": 294436,
+		"isCountry": false,
+		"continent": "South America"
+	},
+	{
+		"name": "Catalonia",
+		"difficulty": 6,
+		"extension": "ct",
+		"traductions": 168,
+		"population": 7727029,
+		"isCountry": false,
+		"continent": "Europe"
+	},
+	{
+		"name": "Abkhazia",
+		"difficulty": 7,
+		"extension": "ak",
+		"traductions": 161,
+		"population": 244926,
+		"isCountry": false,
+		"continent": "Europe"
+	},
+	{
+		"name": "Canary Islands",
+		"difficulty": 7,
+		"extension": "ic",
+		"traductions": 159,
+		"population": 2172944,
+		"isCountry": false,
+		"continent": "Africa"
+	},
+	{
+		"name": "Western Sahara",
+		"difficulty": 7,
+		"extension": "sw",
+		"traductions": 159,
+		"population": 565581,
+		"isCountry": false,
+		"continent": "Africa"
+	},
+	{
+		"name": "Quebec",
+		"difficulty": 7,
+		"extension": "qb",
+		"traductions": 158,
+		"population": 8501833,
+		"isCountry": false,
+		"continent": "North America"
+	},
+	{
+		"name": "Aruba",
+		"difficulty": 7,
+		"extension": "aw",
+		"traductions": 158,
+		"population": 116576,
+		"isCountry": false,
+		"continent": "Central America and Caribbean"
+	},
+	{
+		"name": "Sicily",
+		"difficulty": 7,
+		"extension": "zy",
+		"traductions": 153,
+		"population": 4969147,
+		"isCountry": false,
+		"continent": "Europe"
+	},
+	{
+		"name": "Sardinia",
+		"difficulty": 7,
+		"extension": "zd",
+		"traductions": 151,
+		"population": 1628384,
+		"isCountry": false,
+		"continent": "Europe"
+	},
+	{
+		"name": "South Ossetia",
+		"difficulty": 7,
+		"extension": "os",
+		"traductions": 150,
+		"population": 56520,
+		"isCountry": false,
+		"continent": "Asia"
+	},
+	{
+		"name": "Falkland Islands",
+		"difficulty": 7,
+		"extension": "fk",
+		"traductions": 150,
+		"population": 3662,
+		"isCountry": false,
+		"continent": "South America"
+	},
+	{
+		"name": "Bermuda",
+		"difficulty": 7,
+		"extension": "bm",
+		"traductions": 150,
+		"population": 63913,
+		"isCountry": false,
+		"continent": "Central America and Caribbean"
+	},
+	{
+		"name": "Guam",
+		"difficulty": 7,
+		"extension": "gu",
+		"traductions": 149,
+		"population": 168801,
+		"isCountry": false,
+		"continent": "Oceania"
+	},
+	{
+		"name": "Crimea",
+		"difficulty": 7,
+		"extension": "ri",
+		"traductions": 145,
+		"population": 2416856,
+		"isCountry": false,
+		"continent": "Europe"
+	},
+	{
+		"name": "Réunion",
+		"difficulty": 7,
+		"extension": "re",
+		"traductions": 145,
+		"population": 868846,
+		"isCountry": false,
+		"continent": "Africa"
+	},
+	{
+		"name": "Niue",
+		"difficulty": 7,
+		"extension": "nu",
+		"traductions": 144,
+		"population": 1937,
+		"isCountry": false,
+		"continent": "Oceania"
+	},
+	{
+		"name": "Martinique",
+		"difficulty": 7,
+		"extension": "mq",
+		"traductions": 144,
+		"population": 364508,
+		"isCountry": false,
+		"continent": "Central America and Caribbean"
+	},
+	{
+		"name": "Cook Islands",
+		"difficulty": 7,
+		"extension": "ck",
+		"traductions": 144,
+		"population": 17459,
+		"isCountry": false,
+		"continent": "Oceania"
+	},
+	{
+		"name": "New Caledonia",
+		"difficulty": 7,
+		"extension": "nc",
+		"traductions": 143,
+		"population": 271407,
+		"isCountry": false,
+		"continent": "Oceania"
+	},
+	{
+		"name": "Isle of Man",
+		"difficulty": 7,
+		"extension": "im",
+		"traductions": 142,
+		"population": 84069,
+		"isCountry": false,
+		"continent": "Europe"
+	},
+	{
+		"name": "Northern Cyprus",
+		"difficulty": 7,
+		"extension": "ny",
+		"traductions": 141,
+		"population": 382836,
+		"isCountry": false,
+		"continent": "Europe"
+	},
+	{
+		"name": "Tibet",
+		"difficulty": 7,
+		"extension": "tb",
+		"traductions": 140,
+		"population": "None",
+		"isCountry": false,
+		"continent": "Asia"
+	},
+	{
+		"name": "African Union",
+		"difficulty": 7,
+		"extension": "fu",
+		"traductions": 140,
+		"population": 1321000000,
+		"isCountry": false,
+		"continent": "Africa"
+	},
+	{
+		"name": "Guadeloupe",
+		"difficulty": 7,
+		"extension": "gp",
+		"traductions": 137,
+		"population": 384239,
+		"isCountry": false,
+		"continent": "Central America and Caribbean"
+	},
+	{
+		"name": "Palestine",
+		"difficulty": 7,
+		"extension": "ps",
+		"traductions": 136,
+		"population": "None",
+		"isCountry": false,
+		"continent": "Asia"
+	},
+	{
+		"name": "Åland",
+		"difficulty": 7,
+		"extension": "ax",
+		"traductions": 136,
+		"population": 30129,
+		"isCountry": false,
+		"continent": "Europe"
+	},
+	{
+		"name": "American Samoa",
+		"difficulty": 7,
+		"extension": "as",
+		"traductions": 136,
+		"population": 45443,
+		"isCountry": false,
+		"continent": "Oceania"
+	},
+	{
+		"name": "Cayman Islands",
+		"difficulty": 7,
+		"extension": "ky",
+		"traductions": 135,
+		"population": 78554,
+		"isCountry": false,
+		"continent": "Central America and Caribbean"
+	},
+	{
+		"name": "French Polynesia",
+		"difficulty": 7,
+		"extension": "pf",
+		"traductions": 134,
+		"population": 278786,
+		"isCountry": false,
+		"continent": "Oceania"
+	},
+	{
+		"name": "Galicia",
+		"difficulty": 7,
+		"extension": "gc",
+		"traductions": 134,
+		"population": "None",
+		"isCountry": false,
+		"continent": "Europe"
+	},
+	{
+		"name": "Arab league",
+		"difficulty": 7,
+		"extension": "rl",
+		"traductions": 131,
+		"population": 406700000,
+		"isCountry": false,
+		"continent": "Africa"
+	},
+	{
+		"name": "Easter Island",
+		"difficulty": 7,
+		"extension": "ei",
+		"traductions": 131,
+		"population": 7750,
+		"isCountry": false,
+		"continent": "Oceania"
+	},
+	{
+		"name": "Anguilla",
+		"difficulty": 7,
+		"extension": "ai",
+		"traductions": 131,
+		"population": 15753,
+		"isCountry": false,
+		"continent": "Central America and Caribbean"
+	},
+	{
+		"name": "Mayotte",
+		"difficulty": 7,
+		"extension": "yt",
+		"traductions": 130,
+		"population": 299348,
+		"isCountry": false,
+		"continent": "Africa"
+	},
+	{
+		"name": "Transnistria",
+		"difficulty": 7,
+		"extension": "ts",
+		"traductions": 129,
+		"population": 347251,
+		"isCountry": false,
+		"continent": "Europe"
+	},
+	{
+		"name": "Ceuta",
+		"difficulty": 7,
+		"extension": "ce",
+		"traductions": 129,
+		"population": 85144,
+		"isCountry": false,
+		"continent": "Africa"
+	},
+	{
+		"name": "Virgin Islands, British",
+		"difficulty": 7,
+		"extension": "vg",
+		"traductions": 126,
+		"population": 30030,
+		"isCountry": false,
+		"continent": "Central America and Caribbean"
+	},
+	{
+		"name": "Turks and Caicos Islands",
+		"difficulty": 8,
+		"extension": "tc",
+		"traductions": 126,
+		"population": 44542,
+		"isCountry": false,
+		"continent": "Central America and Caribbean"
+	},
+	{
+		"name": "Somaliland",
+		"difficulty": 8,
+		"extension": "sq",
+		"traductions": 126,
+		"population": 5741086,
+		"isCountry": false,
+		"continent": "Africa"
+	},
+	{
+		"name": "Northern Mariana Islands",
+		"difficulty": 8,
+		"extension": "mp",
+		"traductions": 126,
+		"population": 55650,
+		"isCountry": false,
+		"continent": "Oceania"
+	},
+	{
+		"name": "Virgin Islands, U.S.",
+		"difficulty": 8,
+		"extension": "vi",
+		"traductions": 125,
+		"population": 87146,
+		"isCountry": false,
+		"continent": "Central America and Caribbean"
+	},
+	{
+		"name": "Pitcairn",
+		"difficulty": 8,
+		"extension": "pn",
+		"traductions": 125,
+		"population": 47,
+		"isCountry": false,
+		"continent": "Oceania"
+	},
+	{
+		"name": "Christmas Island",
+		"difficulty": 8,
+		"extension": "cx",
+		"traductions": 124,
+		"population": 1692,
+		"isCountry": false,
+		"continent": "Oceania"
+	},
+	{
+		"name": "Montserrat",
+		"difficulty": 8,
+		"extension": "ms",
+		"traductions": 123,
+		"population": 4649,
+		"isCountry": false,
+		"continent": "Central America and Caribbean"
+	},
+	{
+		"name": "Basque Country",
+		"difficulty": 8,
+		"extension": "bc",
+		"traductions": 123,
+		"population": "None",
+		"isCountry": false,
+		"continent": "Europe"
+	},
+	{
+		"name": "Melilla",
+		"difficulty": 8,
+		"extension": "mf",
+		"traductions": 122,
+		"population": 86384,
+		"isCountry": false,
+		"continent": "Africa"
+	},
+	{
+		"name": "Tokelau",
+		"difficulty": 8,
+		"extension": "tk",
+		"traductions": 121,
+		"population": 1499,
+		"isCountry": false,
+		"continent": "Oceania"
+	},
+	{
+		"name": "Jersey",
+		"difficulty": 8,
+		"extension": "je",
+		"traductions": 121,
+		"population": 103267,
+		"isCountry": false,
+		"continent": "Europe"
+	},
+	{
+		"name": "Curaçao",
+		"difficulty": 8,
+		"extension": "cw",
+		"traductions": 121,
+		"population": 155000,
+		"isCountry": false,
+		"continent": "Central America and Caribbean"
+	},
+	{
+		"name": "Saint Helena",
+		"difficulty": 8,
+		"extension": "ac",
+		"traductions": 120,
+		"population": 4439,
+		"isCountry": false,
+		"continent": "Africa"
+	},
+	{
+		"name": "Norfolk Island",
+		"difficulty": 8,
+		"extension": "nf",
+		"traductions": 119,
+		"population": 2188,
+		"isCountry": false,
+		"continent": "Oceania"
+	},
+	{
+		"name": "Madeira",
+		"difficulty": 8,
+		"extension": "mi",
+		"traductions": 119,
+		"population": 250769,
+		"isCountry": false,
+		"continent": "Africa"
+	},
+	{
+		"name": "Guernsey",
+		"difficulty": 8,
+		"extension": "gg",
+		"traductions": 119,
+		"population": 62792,
+		"isCountry": false,
+		"continent": "Europe"
+	},
+	{
+		"name": "Wallis and Futuna",
+		"difficulty": 8,
+		"extension": "wf",
+		"traductions": 118,
+		"population": 11558,
+		"isCountry": false,
+		"continent": "Oceania"
+	},
+	{
+		"name": "Saint Pierre and Miquelon",
+		"difficulty": 8,
+		"extension": "pm",
+		"traductions": 117,
+		"population": 6008,
+		"isCountry": false,
+		"continent": "North America"
+	},
+	{
+		"name": "Trentino-Alto Adige/Südtirol",
+		"difficulty": 8,
+		"extension": "ti",
+		"traductions": 116,
+		"population": 1072276,
+		"isCountry": false,
+		"continent": "Europe"
+	},
+	{
+		"name": "South Georgia and the South Sandwich Islands",
+		"difficulty": 8,
+		"extension": "gs",
+		"traductions": 116,
+		"population": "None",
+		"isCountry": false,
+		"continent": "South America"
+	},
+	{
+		"name": "Micronesia",
+		"difficulty": 8,
+		"extension": "fm",
+		"traductions": 116,
+		"population": "None",
+		"isCountry": true,
+		"continent": "Oceania"
+	},
+	{
+		"name": "Cocos Islands",
+		"difficulty": 8,
+		"extension": "cc",
+		"traductions": 116,
+		"population": 593,
+		"isCountry": false,
+		"continent": "Oceania"
+	},
+	{
+		"name": "Aosta Valley",
+		"difficulty": 8,
+		"extension": "av",
+		"traductions": 115,
+		"population": 126933,
+		"isCountry": false,
+		"continent": "Europe"
+	},
+	{
+		"name": "Friuli Venezia Giulia",
+		"difficulty": 8,
+		"extension": "gv",
+		"traductions": 112,
+		"population": 1216524,
+		"isCountry": false,
+		"continent": "Europe"
+	},
+	{
+		"name": "Azores",
+		"difficulty": 8,
+		"extension": "azo",
+		"traductions": 112,
+		"population": 236440,
+		"isCountry": false,
+		"continent": "Europe"
+	},
+	{
+		"name": "Nagorno-Karabakh",
+		"difficulty": 8,
+		"extension": "ah",
+		"traductions": 106,
+		"population": 146573,
+		"isCountry": false,
+		"continent": "Asia"
+	},
+	{
+		"name": "Kurdistan",
+		"difficulty": 8,
+		"extension": "ku",
+		"traductions": 104,
+		"population": "None",
+		"isCountry": false,
+		"continent": "Asia"
+	},
+	{
+		"name": "Galápagos Islands",
+		"difficulty": 8,
+		"extension": "go",
+		"traductions": 103,
+		"population": 25000,
+		"isCountry": false,
+		"continent": "Oceania"
+	},
+	{
+		"name": "Sint Maarten",
+		"difficulty": 8,
+		"extension": "sx",
+		"traductions": 101,
+		"population": 41486,
+		"isCountry": false,
+		"continent": "Central America and Caribbean"
+	},
+	{
+		"name": "Zanzibar",
+		"difficulty": 8,
+		"extension": "zz",
+		"traductions": 99,
+		"population": 1889773,
+		"isCountry": false,
+		"continent": "Africa"
+	},
+	{
+		"name": "British Indian Ocean Territory",
+		"difficulty": 8,
+		"extension": "io",
+		"traductions": 96,
+		"population": 3000,
+		"isCountry": false,
+		"continent": "Asia"
+	},
+	{
+		"name": "Aceh",
+		"difficulty": 8,
+		"extension": "ih",
+		"traductions": 92,
+		"population": 5333733,
+		"isCountry": false,
+		"continent": "Asia"
+	},
+	{
+		"name": "Bonaire",
+		"difficulty": 8,
+		"extension": "on",
+		"traductions": 91,
+		"population": 20104,
+		"isCountry": false,
+		"continent": "Central America and Caribbean"
+	},
+	{
+		"name": "Trento",
+		"difficulty": 8,
+		"extension": "te",
+		"traductions": 90,
+		"population": 120709,
+		"isCountry": false,
+		"continent": "Europe"
+	},
+	{
+		"name": "Adjara",
+		"difficulty": 8,
+		"extension": "aj",
+		"traductions": 90,
+		"population": 349000,
+		"isCountry": false,
+		"continent": "Asia"
+	},
+	{
+		"name": "Vojvodina",
+		"difficulty": 9,
+		"extension": "vj",
+		"traductions": 89,
+		"population": 1931809,
+		"isCountry": false,
+		"continent": "Europe"
+	},
+	{
+		"name": "South Tyrol",
+		"difficulty": 9,
+		"extension": "ty",
+		"traductions": 88,
+		"population": 531178,
+		"isCountry": false,
+		"continent": "Europe"
+	},
+	{
+		"name": "Ascension Island",
+		"difficulty": 9,
+		"extension": "ia",
+		"traductions": 86,
+		"population": 806,
+		"isCountry": false,
+		"continent": "Africa"
+	},
+	{
+		"name": "Shetland",
+		"difficulty": 9,
+		"extension": "sh",
+		"traductions": 85,
+		"population": 22920,
+		"isCountry": false,
+		"continent": "Europe"
+	},
+	{
+		"name": "Republika Srpska",
+		"difficulty": 9,
+		"extension": "sp",
+		"traductions": 83,
+		"population": 1136274,
+		"isCountry": false,
+		"continent": "Europe"
+	},
+	{
+		"name": "Tristan da Cunha",
+		"difficulty": 9,
+		"extension": "ta",
+		"traductions": 82,
+		"population": 238,
+		"isCountry": false,
+		"continent": "Africa"
+	},
+	{
+		"name": "Saba",
+		"difficulty": 9,
+		"extension": "zb",
+		"traductions": 81,
+		"population": "None",
+		"isCountry": false,
+		"continent": "Central America and Caribbean"
+	},
+	{
+		"name": "Sint Eustatius",
+		"difficulty": 9,
+		"extension": "su",
+		"traductions": 81,
+		"population": 3138,
+		"isCountry": false,
+		"continent": "Central America and Caribbean"
+	},
+	{
+		"name": "Karakalpakstan",
+		"difficulty": 9,
+		"extension": "kk",
+		"traductions": 81,
+		"population": 1948488,
+		"isCountry": false,
+		"continent": "Asia"
+	},
+	{
+		"name": "Helgoland",
+		"difficulty": 9,
+		"extension": "he",
+		"traductions": 79,
+		"population": 1284,
+		"isCountry": false,
+		"continent": "Europe"
+	},
+	{
+		"name": "Orkney",
+		"difficulty": 9,
+		"extension": "ok",
+		"traductions": 78,
+		"population": 22100,
+		"isCountry": false,
+		"continent": "Europe"
+	},
+	{
+		"name": "Gagauzia",
+		"difficulty": 9,
+		"extension": "gz",
+		"traductions": 78,
+		"population": 134535,
+		"isCountry": false,
+		"continent": "Europe"
+	},
+	{
+		"name": "Marquesas Islands",
+		"difficulty": 9,
+		"extension": "mj",
+		"traductions": 72,
+		"population": 9346,
+		"isCountry": false,
+		"continent": "Oceania"
+	},
+	{
+		"name": "Azad Kashmir",
+		"difficulty": 9,
+		"extension": "ka",
+		"traductions": 72,
+		"population": 4045366,
+		"isCountry": false,
+		"continent": "Asia"
+	},
+	{
+		"name": "Balochistan",
+		"difficulty": 9,
+		"extension": "bl",
+		"traductions": 70,
+		"population": 1819,
+		"isCountry": false,
+		"continent": "Asia"
+	},
+	{
+		"name": "British Antarctic Territory",
+		"difficulty": 9,
+		"extension": "bat",
+		"traductions": 70,
+		"population": 250,
+		"isCountry": false,
+		"continent": "None"
+	},
+	{
+		"name": "Brittany",
+		"difficulty": 9,
+		"extension": "bzh",
+		"traductions": 69,
+		"population": 4829968,
+		"isCountry": false,
+		"continent": "Europe"
+	},
+	{
+		"name": "Kerguelen Islands",
+		"difficulty": 9,
+		"extension": "tf",
+		"traductions": 68,
+		"population": 45,
+		"isCountry": false,
+		"continent": "Oceania"
+	},
+	{
+		"name": "Tuamotus",
+		"difficulty": 9,
+		"extension": "tu",
+		"traductions": 67,
+		"population": 15346,
+		"isCountry": false,
+		"continent": "Oceania"
+	},
+	{
+		"name": "Union of South American Nations",
+		"difficulty": 9,
+		"extension": "ur",
+		"traductions": 64,
+		"population": "None",
+		"isCountry": false,
+		"continent": "South America"
+	},
+	{
+		"name": "Barbuda",
+		"difficulty": 9,
+		"extension": "rb",
+		"traductions": 62,
+		"population": 1634,
+		"isCountry": false,
+		"continent": "Central America and Caribbean"
+	},
+	{
+		"name": "Puntland",
+		"difficulty": 9,
+		"extension": "pu",
+		"traductions": 62,
+		"population": 4334633,
+		"isCountry": false,
+		"continent": "Africa"
+	},
+	{
+		"name": "Isle of Skye",
+		"difficulty": 9,
+		"extension": "yk",
+		"traductions": 59,
+		"population": 10008,
+		"isCountry": false,
+		"continent": "Europe"
+	},
+	{
+		"name": "Savoy",
+		"difficulty": 9,
+		"extension": "zv",
+		"traductions": 58,
+		"population": 1262528,
+		"isCountry": false,
+		"continent": "Europe"
+	},
+	{
+		"name": "South Moluccas",
+		"difficulty": 9,
+		"extension": "zo",
+		"traductions": 54,
+		"population": "None",
+		"isCountry": false,
+		"continent": "Oceania"
+	},
+	{
+		"name": "Rodrigues",
+		"difficulty": 9,
+		"extension": "rd",
+		"traductions": 53,
+		"population": 41669,
+		"isCountry": false,
+		"continent": "Africa"
+	},
+	{
+		"name": "East Turkistan",
+		"difficulty": 9,
+		"extension": "ek",
+		"traductions": 51,
+		"population": 248700003040,
+		"isCountry": false,
+		"continent": "Asia"
+	},
+	{
+		"name": "Aboriginal Australians",
+		"difficulty": 9,
+		"extension": "aa",
+		"traductions": 51,
+		"population": "None",
+		"isCountry": false,
+		"continent": "None"
+	},
+	{
+		"name": "Bougainville",
+		"difficulty": 9,
+		"extension": "bv",
+		"traductions": 50,
+		"population": "None",
+		"isCountry": false,
+		"continent": "Africa"
+	},
+	{
+		"name": "Unrepresented Nations and Peoples Organization",
+		"difficulty": 9,
+		"extension": "unpo",
+		"traductions": 49,
+		"population": "None",
+		"isCountry": false,
+		"continent": "None"
+	},
+	{
+		"name": "Nevis",
+		"difficulty": 9,
+		"extension": "nv",
+		"traductions": 49,
+		"population": 11108,
+		"isCountry": false,
+		"continent": "Oceania"
+	},
+	{
+		"name": "Austral Islands",
+		"difficulty": 9,
+		"extension": "an",
+		"traductions": 46,
+		"population": 6965,
+		"isCountry": false,
+		"continent": "None"
+	},
+	{
+		"name": "Svalbard and Jan Mayen",
+		"difficulty": 9,
+		"extension": "sj",
+		"traductions": 45,
+		"population": "None",
+		"isCountry": false,
+		"continent": "None"
+	},
+	{
+		"name": "Gambier Islands",
+		"difficulty": 9,
+		"extension": "ig",
+		"traductions": 45,
+		"population": 1431,
+		"isCountry": false,
+		"continent": "Oceania"
+	},
+	{
+		"name": "CEFTA",
+		"difficulty": 9,
+		"extension": "cefta",
+		"traductions": 40,
+		"population": 20220000,
+		"isCountry": false,
+		"continent": "Europe"
+	},
+	{
+		"name": "Leeward Islands",
+		"difficulty": 10,
+		"extension": "lw",
+		"traductions": 37,
+		"population": 700000,
+		"isCountry": false,
+		"continent": "Central America and Caribbean"
+	},
+	{
+		"name": "Federal Dependencies of Venezuela",
+		"difficulty": 10,
+		"extension": "fv",
+		"traductions": 35,
+		"population": 2155,
+		"isCountry": false,
+		"continent": "Central America and Caribbean"
+	},
+	{
+		"name": "Bangsamoro",
+		"difficulty": 10,
+		"extension": "bk",
+		"traductions": 35,
+		"population": 4944800,
+		"isCountry": false,
+		"continent": "Asia"
+	},
+	{
+		"name": "South Uist",
+		"difficulty": 10,
+		"extension": "ui",
+		"traductions": 34,
+		"population": 1754,
+		"isCountry": false,
+		"continent": "Europe"
+	},
+	{
+		"name": "Barra",
+		"difficulty": 10,
+		"extension": "bx",
+		"traductions": 33,
+		"population": 1174,
+		"isCountry": false,
+		"continent": "Europe"
+	},
+	{
+		"name": "Republic of West Papua",
+		"difficulty": 10,
+		"extension": "wp",
+		"traductions": 22,
+		"population": "None",
+		"isCountry": false,
+		"continent": "Oceania"
+	},
+	{
+		"name": "Barotseland",
+		"difficulty": 10,
+		"extension": "ot",
+		"traductions": 19,
+		"population": "None",
+		"isCountry": false,
+		"continent": "Africa"
+	}
+]

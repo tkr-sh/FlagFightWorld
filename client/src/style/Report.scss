@@ -1,0 +1,99 @@
+@import "./Variables.scss";
+
+.Report {
+    background-color: $div-color;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 86vw;
+    position: fixed;
+    left: 7vw;
+    z-index: 999999999;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-block: 20px;
+    min-height: 100px;
+    border-radius: 10px;
+    font-weight: 600;
+    font-size: 30px;
+
+    input {
+        all: unset;
+        font-size: 16px;
+        font-weight: 500;
+        width: 90%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: $dav-color;
+        height: 45px;
+        line-height: 45px;
+        border-radius: 200px;
+        padding-left: 25px;
+    }
+
+    .content {
+        width: 90%;
+        background-color: darken($dav-color, 2%);
+        border-radius: 5px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        padding: 10px;
+        margin-top: 20px;      
+        row-gap: 5px;  
+
+        button {
+            cursor: pointer;
+            width: 100%;
+            background-color: lighten($dav-color, 5%);
+            transition: .3s;
+            text-align: left;
+
+            img {
+                height: 90%;
+                border-radius: 100%;
+                aspect-ratio: 1/1;
+                object-fit: cover;
+            }
+
+            &:hover {
+                background-color: lighten($dav-color, 13%);
+            }
+        }
+    }
+
+    form {
+        width: 90%;
+
+        button {
+            margin-top: 10px;
+            background-color: $main-color;
+            text-align: center;
+            font-weight: 600;
+            display: flex;
+            justify-content: center;
+            cursor: pointer;
+            transition: .3s;
+
+            &:hover {
+                background-color: lighten($main-color, 10%);
+            }
+        }
+    }
+
+    textarea {
+        all: unset;
+        min-height: 100px;
+        font-size: 16px;
+        width: 100%;
+        font-weight: 400;
+        background-color: $dav-color;
+        line-height: 20px;
+        border-radius: 5px;
+        padding-left: 10px;
+        padding-top: 10px;
+    }
+}

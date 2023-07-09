@@ -1,0 +1,193 @@
+Afghanistan	1946	40.10 M	653,000 km²
+Albania	1955	2.81 M	29,000 km²
+Algeria	1962	44.18 M	2,382,000 km²
+Andorra	1993	0.08 M	470 km²
+Angola	1976	34.50 M	1,247,000 km²
+Antigua and Barbuda	1981	0.09 M	440 km²
+Argentina	1945	45.81 M	2,780,000 km²
+Armenia	1992	2.79 M	30,000 km²
+Australia	1945	25.69 M	7,741,000 km²
+Austria	1955	8.96 M	84,000 km²
+Azerbaijan	1992	10.14 M	87,000 km²
+Bahamas	1973	0.41 M	14,000 km²
+Bahrain	1971	1.46 M	778 km²
+Bangladesh	1974	169.36 M	148,000 km²
+Barbados	1966	0.28 M	430 km²
+Belarus	1945	9.34 M	208,000 km²
+Belgium	1945	11.59 M	31,000 km²
+Belize	1981	0.40 M	23,000 km²
+Benin	1960	13.00 M	115,000 km²
+Bhutan	1971	0.78 M	38,000 km²
+Bolivia	1945	12.08 M	1,099,000 km²
+Bosnia and Herzegovina	1992	3.27 M	51,000 km²
+Botswana	1966	2.59 M	582,000 km²
+Brazil	1945	214.33 M	8,516,000 km²
+Brunei	1984	0.45 M	5,770 km²
+Bulgaria	1955	6.88 M	111,000 km²
+Burkina Faso	1960	22.10 M	274,000 km²
+Burundi	1962	12.55 M	28,000 km²
+Cambodia	1955	16.59 M	181,000 km²
+Cameroon	1960	27.20 M	475,000 km²
+Canada	1945	38.25 M	9,985,000 km²
+Cape Verde	1975	0.59 M	4,030 km²
+Central Africa	1960	5.46 M	623,000 km²
+Chad	1960	17.18 M	1,284,000 km²
+Chile	1945	19.49 M	757,000 km²
+China	1971	1,412.36 M	9,563,000 km²
+Colombia	1945	51.52 M	1,142,000 km²
+Comoros	1975	0.82 M	1,861 km²
+Congo	1960	5.84 M	342,000 km²
+Congo (Dem. Republic)	1960	95.89 M	2,345,000 km²
+Costa Rica	1945	5.15 M	51,000 km²
+Croatia	1992	3.90 M	57,000 km²
+Cuba	1945	11.26 M	110,000 km²
+Cyprus	1960	1.24 M	9,250 km²
+Czechia	1993	10.51 M	79,000 km²
+Denmark	1945	5.86 M	43,000 km²
+Djibouti	1977	1.11 M	23,000 km²
+Dominica	1978	0.07 M	750 km²
+Dominican Republic	1945	11.12 M	49,000 km²
+Ecuador	1945	17.80 M	256,000 km²
+Egypt	1945	109.26 M	1,001,000 km²
+El Salvador	1945	6.31 M	21,000 km²
+Equatorial Guinea	1968	1.63 M	28,000 km²
+Eritrea	1993	3.62 M	118,000 km²
+Estonia	1991	1.33 M	45,000 km²
+Eswatini	1968	1.19 M	17,000 km²
+Ethiopia	1945	120.28 M	1,104,000 km²
+Fiji	1970	0.92 M	18,000 km²
+Finland	1955	5.54 M	338,000 km²
+France	1945	67.75 M	549,000 km²
+Gabon	1960	2.34 M	268,000 km²
+Gambia	1965	2.64 M	11,000 km²
+Georgia	1992	3.71 M	70,000 km²
+Germany	1973	83.20 M	358,000 km²
+Ghana	1957	32.83 M	239,000 km²
+Greece	1945	10.64 M	132,000 km²
+Grenada	1974	0.12 M	340 km²
+Guatemala	1945	17.11 M	109,000 km²
+Guinea	1958	13.53 M	246,000 km²
+Guinea-Bissau	1974	2.06 M	36,000 km²
+Guyana	1966	0.80 M	215,000 km²
+Haiti	1945	11.45 M	28,000 km²
+Honduras	1945	10.28 M	112,000 km²
+Hungary	1955	9.71 M	93,000 km²
+Iceland	1946	0.37 M	103,000 km²
+India	1945	1,407.56 M	3,287,000 km²
+Indonesia	1950	273.75 M	1,914,000 km²
+Iran	1945	87.92 M	1,745,000 km²
+Iraq	1945	43.53 M	435,000 km²
+Ireland	1955	5.03 M	70,000 km²
+Israel	1949	9.36 M	22,000 km²
+Italy	1955	59.11 M	301,000 km²
+Ivory Coast	1960	27.48 M	322,000 km²
+Jamaica	1962	2.83 M	11,000 km²
+Japan	1956	125.68 M	378,000 km²
+Jordan	1955	11.15 M	89,000 km²
+Kazakhstan	1992	19.00 M	2,725,000 km²
+Kenya	1963	53.01 M	580,000 km²
+Kiribati	1999	0.13 M	810 km²
+Kuwait	1963	4.25 M	18,000 km²
+Kyrgyzstan	1992	6.69 M	200,000 km²
+Laos	1955	7.43 M	237,000 km²
+Latvia	1991	1.88 M	64,000 km²
+Lebanon	1945	5.59 M	10,000 km²
+Lesotho	1966	2.28 M	30,000 km²
+Liberia	1945	5.19 M	111,000 km²
+Libya	1955	6.74 M	1,760,000 km²
+Liechtenstein	1990	0.04 M	161 km²
+Lithuania	1991	2.80 M	65,000 km²
+Luxembourg	1945	0.64 M	2,590 km²
+Madagascar	1960	28.92 M	587,000 km²
+Malawi	1964	19.89 M	118,000 km²
+Malaysia	1957	33.57 M	330,000 km²
+Maldives	1965	0.52 M	300 km²
+Mali	1960	21.90 M	1,240,000 km²
+Malta	1964	0.52 M	320 km²
+Marshall Islands	1991	0.04 M	181 km²
+Mauritania	1961	4.61 M	1,031,000 km²
+Mauritius	1968	1.27 M	2,040 km²
+Mexico	1945	126.71 M	1,964,000 km²
+Micronesia	1991	0.11 M	700 km²
+Moldova	1992	2.62 M	34,000 km²
+Monaco	1993	0.04 M	2 km²
+Mongolia	1961	3.35 M	1,564,000 km²
+Montenegro	2006	0.62 M	14,000 km²
+Morocco	1956	37.08 M	447,000 km²
+Mozambique	1975	32.08 M	786,000 km²
+Myanmar	1948	53.80 M	677,000 km²
+Namibia	1990	2.53 M	824,000 km²
+Nauru	1999	0.01 M	21 km²
+Nepal	1955	30.03 M	147,000 km²
+Netherlands	1945	17.53 M	42,000 km²
+New Zealand	1945	5.12 M	268,000 km²
+Nicaragua	1945	6.85 M	130,000 km²
+Niger	1960	25.25 M	1,267,000 km²
+Nigeria	1960	213.40 M	924,000 km²
+North Korea	1991	25.97 M	121,000 km²
+North Macedonia	1993	2.07 M	26,000 km²
+Norway	1945	5.41 M	385,000 km²
+Oman	1971	4.52 M	310,000 km²
+Pakistan	1947	231.40 M	796,000 km²
+Palau	1994	0.02 M	460 km²
+Panama	1945	4.35 M	75,000 km²
+Papua New Guinea	1975	9.95 M	463,000 km²
+Paraguay	1945	6.70 M	407,000 km²
+Peru	1945	33.72 M	1,285,000 km²
+Philippines	1945	113.88 M	300,000 km²
+Poland	1945	37.75 M	313,000 km²
+Portugal	1955	10.33 M	92,000 km²
+Qatar	1971	2.69 M	12,000 km²
+Romania	1955	19.12 M	238,000 km²
+Russia	1991	143.45 M	17,098,000 km²
+Rwanda	1962	13.46 M	26,000 km²
+Saint Kitts and Nevis	1983	0.05 M	260 km²
+Saint Lucia	1979	0.18 M	620 km²
+Saint Vincent and the Grenadines	1980	0.10 M	390 km²
+Samoa	1976	0.22 M	2,840 km²
+San Marino	1992	0.03 M	61 km²
+Sao Tome and Principe	1975	0.22 M	960 km²
+Saudi Arabia	1945	35.95 M	2,150,000 km²
+Senegal	1960	16.88 M	197,000 km²
+Serbia	2000	6.83 M	88,000 km²
+Seychelles	1976	0.10 M	460 km²
+Sierra Leone	1961	8.42 M	72,000 km²
+Singapore	1965	5.45 M	719 km²
+Slovakia	1993	5.45 M	49,000 km²
+Slovenia	1992	2.11 M	21,000 km²
+Solomon Islands	1978	0.71 M	29,000 km²
+Somalia	1960	17.07 M	638,000 km²
+South Africa	1945	59.39 M	1,219,000 km²
+South Korea	1991	51.74 M	100,000 km²
+South Sudan	2011	10.75 M	644,000 km²
+Spain	1955	47.42 M	506,000 km²
+Sri Lanka	1955	22.16 M	66,000 km²
+Sudan	1956	45.66 M	1,879,000 km²
+Suriname	1975	0.61 M	164,000 km²
+Sweden	1946	10.42 M	447,000 km²
+Switzerland	2002	8.70 M	41,000 km²
+Syria	1945	21.32 M	185,000 km²
+Tajikistan	1992	9.75 M	141,000 km²
+Tanzania	1964	63.59 M	947,000 km²
+Thailand	1946	71.60 M	513,000 km²
+East Timor	2002	1.32 M	15,000 km²
+Togo	1960	8.64 M	57,000 km²
+Tonga	1999	0.11 M	750 km²
+Trinidad and Tobago	1962	1.53 M	5,130 km²
+Tunisia	1956	12.26 M	164,000 km²
+Turkey	1945	84.78 M	785,000 km²
+Turkmenistan	1992	6.34 M	488,000 km²
+Tuvalu	2000	0.01 M	26 km²
+Uganda	1962	45.85 M	242,000 km²
+Ukraine	1945	43.79 M	604,000 km²
+United Arab Emirates	1971	9.37 M	84,000 km²
+United Kingdom	1945	67.33 M	244,000 km²
+United States	1945	331.89 M	9,832,000 km²
+Uruguay	1945	3.43 M	176,000 km²
+Uzbekistan	1992	34.92 M	447,000 km²
+Vanuatu	1981	0.32 M	12,000 km²
+Venezuela	1945	28.20 M	912,000 km²
+Vietnam	1977	97.47 M	331,000 km²
+Yemen	1947	32.98 M	528,000 km²
+Zambia	1964	19.47 M	753,000 km²
+Zimbabwe	1980	15.99 M	391,000 km²

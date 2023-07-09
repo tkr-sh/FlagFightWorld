@@ -1,0 +1,222 @@
+BLABLA:
+- Paramètres
+- Boutique
+- Accueil
+- Amis
+- Profil
+- Nom d'utilisateur
+- Description
+- Bannière
+- Photo de profil
+- Social
+- Utilisateurs bloqués
+- Signaler un utilisateur
+- Plus
+- Notifications
+- Drapeaux
+- Messages
+- Mes articles
+- Seulement
+- Les deux
+- Conditions d'utilisation
+- Politique de confidentialité
+- Déconnexion
+- Supprimer le compte
+- Argent
+- Drapeau
+- Messages
+- Personnalisation
+- Voir tous les objets
+- Classement
+- Jeu rapide
+- Entraînement
+- Historique
+- Collection
+- Top
+- Statistiques
+- Classement
+- ELO
+- Demandes d'amis
+- Plus
+- Social
+- Profil
+- Quitter
+- Apprenez le drapeau de
+- avec
+- N'attendez plus, apprenez les drapeaux en vous amusant, avec une multitude d'options pour apprendre ! Inscrivez-vous à Flag Fight ou connectez-vous.
+- S'inscrire
+- Se connecter
+- Créer un compte !
+- Rejoignez tous les utilisateurs qui se sont déjà inscrits et commencez à jouer aujourd'hui !
+- Revenez à Flag Fight et continuez à apprendre en vous amusant !
+- Nom d'utilisateur
+- E-mail
+- Mot de passe
+- Confirmer le mot de passe
+- Vous avez déjà un compte ?
+- Connectez-vous ici
+- Inscrivez-vous ici
+- Vous n'avez pas de compte ?
+- Voulez-vous vous entraîner sur un pays ?
+- Pays
+- Pas de pays
+- Pays et Pas de pays
+- Personnalisé
+- Sur quel continent voulez-vous vous entraîner ?
+- Tout
+- Afrique
+- Asie
+- Europe
+- Amérique du Nord
+- Amérique centrale et Caraïbes
+- Océanie
+- Amérique du Sud
+- Toutes les difficultés
+- Basique
+- Débutant
+- Facile
+- Normal
+- Novice
+- Moyen
+- Intermédiaire
+- Difficile
+- Avancé
+- Expert
+- Question
+- Score
+- Classement mondial
+- Classement des drapeaux
+- En ligne
+- Hors ligne
+- En attente
+- Aucune demande d'ami pour le moment
+- Faites glisser et déposez une image ici
+- Choisissez une image depuis votre ordinateur
+- Supprimer l'image
+- Télécharger l'image
+- Jeu rapide
+- Ligue
+- Changer de langue
+- Utilisateurs bloqués
+- Ajouter un ami...
+- Plus d'informations
+- Sur quelle difficulté voulez-vous vous entraîner ?
+- Type
+- En attente
+- Jeu rapide
+- Recherche
+- UNO pays
+- Tous les continents
+- Entraînement
+- Classement
+- Aperçu des drapeaux
+- Tous les articles
+- JOUEURS
+- ELO MOYEN
+- Nom
+- Tout
+- Voulez-vous continuer ?
+- Jouer à nouveau
+- Tour
+- Vous n'avez aucun message, mais vous pouvez en acheter après le jeu.
+- Rejouer
+- Redémarrer
+- Revanche
+- Parfait !
+- Score final
+- Erreurs
+- Revancher
+- Fin du jeu !
+- Jeu rapide
+- Aucun
+- Bois
+- Bronze
+- Argent
+- Platine
+- Or
+- Mercure
+- Diamant
+- Uranium
+- "Pays" est défini comme un territoire reconnu par les Nations unies
+- Difficulté
+- Pas de pays
+- Image de profil GIF
+- Bannière
+- Bannière GIF
+- Oui
+- Non
+- Belle tentative !
+- Vous pouvez le faire !
+- Allez, allez !
+- Bonne chance !
+- Oops
+- Bien joué !
+- OMG
+- lol
+- Noooooooooo
+- GG
+- Merci !
+- Facile !
+- Bonjour 👋
+- Gagnant
+- Personne
+- Ami
+- C'est une égalité !
+- Vous avez gagné !
+- Vous avez perdu !
+- OU
+- Vous pouvez déposer l'image maintenant !
+- Photo de profil
+- Télécharger une image pour \"{v}\"
+- Publier une image
+- Tour
+- SOUMETTRE
+- Avant
+- Après
+- Chargement
+- Voici la partie concernant les paramètres.
+- Ici, vous pouvez personnaliser votre expérience, vous pouvez :
+- Modifier votre profil (votre nom, votre description, votre photo de profil, votre bannière...)
+- Gérer les relations sociales (signaler les utilisateurs, bloquer les utilisateurs)
+- Gérer les informations telles que votre langue ou vos notifications
+- Déconnectez-vous de Flag Fight
+- Voici la partie concernant la Boutique.
+- Pour acheter des articles dans la boutique, vous devez avoir des pièces. Vous pouvez obtenir ces pièces en jouant à Flag Fight en mode multijoueur.
+- Vous commencerez avec 1000 pièces.
+- Il y a 3 choses différentes que vous pouvez faire dans la Boutique :
+- Acheter des drapeaux
+- Dans Flag Fight, vous pouvez acheter des drapeaux et essayer de tous les collectionner. Mais en plus de cela, vous pouvez choisir de représenter n'importe quel drapeau que vous avez acheté en le mettant sur votre profil.
+- Acheter des messages
+- Dans Flag Fight, vous pouvez acheter des messages que vous pouvez envoyer à votre adversaire pendant le jeu.
+- Acheter une personnalisation de profil
+- Dans Flag Fight, vous pouvez acheter une personnalisation de profil. Cela se caractérise par 3 choses : la possibilité d'acheter une bannière, une photo de profil GIF et une bannière GIF.
+- La page d'accueil est l'endroit où vous pouvez facilement naviguer entre les différentes pages.
+- Voici toutes les pages auxquelles vous pouvez accéder :
+- Jeux classés.
+- Les jeux classés sont des jeux où l'ELO (votre niveau) est important. Dans les jeux classés, vous jouerez avec des personnes de votre niveau, les questions seront plus adaptées à votre niveau.
+- Jeux rapides.
+- Les jeux rapides sont des jeux sans pression, où la perte n'affecte pas votre ELO. Vous pouvez rencontrer n'importe quel type de joueur.
+- Entraînement.
+- L'entraînement est un mode solo, où vous pouvez vous entraîner sur n'importe quel drapeau avec des critères très précis, pour un apprentissage personnalisé tout en s'amusant !
+- Classement.
+- Le classement est l'endroit où vous pouvez voir le classement de tout le monde. Vous pouvez filtrer le classement par pays, et même avoir un classement qui classe les pays avec le plus d'ELO
+- Collection.
+- Dans la collection, vous pouvez voir tous les articles de la boutique (également accessibles depuis la boutique), et vous pouvez les filtrer par ceux que vous avez et ceux que vous n'avez pas.
+- Historique.
+- L'historique est l'endroit où vous pouvez voir l'historique des jeux que vous avez eus.
+- Dans la catégorie ami, vous pouvez gérer tout ce qui concerne vos amis ou vos notifications.
+- Il y a 4 choses que vous pouvez faire :
+- Ajouter un utilisateur.
+- Vous pouvez ajouter un utilisateur en tant qu'ami en utilisant son nom.
+- Vérifiez vos notifications.
+- Vous pouvez voir toutes les notifications que vous avez reçues et interagir avec elles s'il n'est pas trop tard.
+- Interagir avec vos amis.
+- Vous pouvez interagir avec vos amis, les inviter à jouer avec vous (il est possible de jouer avec vos amis en les invitant, mais vous ne gagnerez pas de pièces), vous pouvez également les supprimer de votre liste d'amis.
+- Gérer les demandes d'amis.
+- Vous avez également un onglet spécifiquement dédié à la gestion des demandes d'amis que vous avez reçues. Vous pouvez soit les accepter, soit les refuser.
+- Dans la catégorie profil, vous pouvez voir votre profil et un aperçu de quelques données rapides.
+- Lorsque vous cliquez sur le nom de quelqu'un (comme un ami), la page aura le même format.
+- Bienvenue dans
+- Flag Fight est un jeu de drapeaux !
+- Voici comment vous pouvez utiliser Flag Fight, cliquez sur les icônes pour avoir plus d'informations :
+- COMMENCER!

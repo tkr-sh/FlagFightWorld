@@ -1,0 +1,55 @@
+{
+  "name": "test_react",
+  "version": "0.1.0",
+  "private": true,
+  "proxy": "http://localhost:3000/",
+  "dependencies": {
+    "@fortawesome/free-regular-svg-icons": "^6.2.1",
+    "@hcaptcha/react-hcaptcha": "^1.4.4",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "i18next": "^22.3.0",
+    "i18next-browser-languagedetector": "^7.0.1",
+    "i18next-http-backend": "^2.1.0",
+    "i18next-react": "^0.2.2",
+    "i18next-resources-to-backend": "^1.1.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-i18next": "^12.1.1",
+    "react-icons": "^4.7.1",
+    "react-modal": "^3.16.1",
+    "react-scripts": "5.0.1",
+    "sass": "^1.56.1",
+    "socket.io-client": "^4.5.4",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start --host 0.0.0.0",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "jest": "^27.5.1",
+    "react-router-dom": "^6.8.1"
+  }
+}

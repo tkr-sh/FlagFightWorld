@@ -1,0 +1,214 @@
+{
+	"Settings": "المرتبات",
+	"Shop": "Shop",
+	"Home": "البيت",
+	"Friends": "الأصدقاء",
+	"Profile": "موجز",
+	"Username": "المستعمل",
+	"Description": "الوصف",
+	"Banner": "بانر",
+	"Profile picture": "صورة ملفوفة",
+	"Social": "الاجتماعية",
+	"Blocker users": "مستخدمو القفل",
+	"Report user": "مستعمل تقرير",
+	"More": "أكثر",
+	"Notifications": "الإخطارات",
+	"Flags": "الأعلام",
+	"Messages": "الرسائل",
+	"My articles": "مقالاتي",
+	"Only": "فقط",
+	"Both": "كلاهما",
+	"Term of services": "مدة الخدمات",
+	"Privacy policy": "سياسة الخصوصية",
+	"Log out": "أخرج",
+	"Delete account": "يحذف الحساب",
+	"Money": "المال",
+	"Flag": "فلاغ",
+	"Customization": "العرف",
+	"See all the items": "انظر جميع البنود",
+	"Ranking": "رنين",
+	"Quick game": "لعبة سريعة",
+	"Practice": "الممارسة",
+	"History": "التاريخ",
+	"Collection": "جمع",
+	"Top": "أعلى",
+	"Statistics": "الإحصاءات",
+	"Rank": "رانك",
+	"ELO": "ELO",
+	"Friend requests": "طلبات الأصدقاء",
+	"Quit": "توقف",
+	"Learn the flag of": "تعلم علم العلم",
+	"with": "مع",
+	"Don't wait any longer, learn flags while having fun, with a multitude of options to learn! Sign up for flag fight or log in.": "لا تنتظر أكثر، تعلم الأعلام أثناء المتعة، مع العديد من الخيارات للتعلم! وقّعْ للقتالِ العلمِ أَو سجلْ في.",
+	"Sign up": "وقع",
+	"Log in": "اسحب",
+	"Create an account!": "اصنع حساباً",
+	"Join all the users who have already signed up and start quizzing today!": "انضموا إلى جميع المستعملين الذين وقعوا و بدأوا بالاختبار اليوم",
+	"Come back to Flag Fight and keep learning while having fun!": "عُد إلى معركة فلاغ وإستمر بالتعلم بينما تستمتع",
+	"Email": "Email",
+	"Password": "كلمة سر",
+	"Confirm Password": "كلمة المرور",
+	"Already have an account?": "هل لديك حساب بالفعل؟",
+	"Log in here": "ضع هنا",
+	"Sign up here": "وقع هنا",
+	"Don't have an account?": "ليس لديك حساب؟",
+	"Do you want to train on country ?": "هل تريد أن تتدرب في البلاد؟",
+	"Country": "البلد",
+	"No country": "لا بلد",
+	"Country & No Country": "البلد",
+	"Personnalized": "شخصية",
+	"On which continent do you want to train?": "في أي قارة تريد أن تتدرب؟",
+	"All": "",
+	"Africa": "أفريقيا",
+	"Asia": "آسيا",
+	"Europe": "أوروبا",
+	"North America": "أمريكا الشمالية",
+	"Central America and Caribbean": "أمريكا الوسطى ومنطقة البحر الكاريبي",
+	"Oceania": "أوقيانوسيا",
+	"South America": "أمريكا الجنوبية",
+	"All difficulties": "جميع الصعوبات",
+	"Basic": "أساسي",
+	"Beginner": "مبتدئ",
+	"Easy": "على مهلك",
+	"Normal": "طبيعي",
+	"Novice": "Novice",
+	"Medium": "متوسطة",
+	"Intermediate": "وسيط",
+	"Hard": "صلب",
+	"Advanced": "مقدم",
+	"Expert": "خبير",
+	"Question": "سؤال",
+	"Score": "سكوير",
+	"Global leaderboard": "لوحة القيادة العالمية",
+	"Flag leaderboard": "لوحة القيادة",
+	"Online": "على الإنترنت",
+	"Offline": "",
+	"Pending": "تنتظر",
+	"No friend requests for the moment": "لا طلبات للأصدقاء في هذه اللحظة",
+	"Drag and drop an image here": "تدحرج وتسقط صورة هنا",
+	"Choose an image from your computer": "اختر صورة من حاسوبك",
+	"Remove image": "إزالة الصورة",
+	"Upload image": "صورة تحميل",
+	"League": "عصبة",
+	"Change language": "تغيير اللغة",
+	"Blocked users": "المستعملون المغلقون",
+	"Add a friend...": "أضف صديق...",
+	"More info": "مزيد من المعلومات",
+	"On which difficulty do you want to train ?": "على أي صعوبة تريد أن تتدرب؟",
+	"Type": "النوع",
+	"Waiting": "انتظر",
+	"Quickgame": "بسرعة",
+	"Searching": "البحث",
+	"UNO country": "مكتب الأمم المتحدة في أوروبا",
+	"All continents": "جميع القارات",
+	"Training": "التدريب",
+	"Leaderboard": "القيادة",
+	"Flag preview": "الملف الأمامي",
+	"All articles": "جميع المواد",
+	"PLAYERS": "PLAYERS",
+	"MEAN ELO": "عنوان إيلو",
+	"Name": "الاسم",
+	"Do you want to continue ?": "هل تريد الاستمرار؟",
+	"Play again": "أعزف مجدداً",
+	"Round": "جولة",
+	"You don't have any message, but you can buy some after the game.": "ليس لديك أي رسالة، ولكن يمكنك شراء البعض بعد المباراة.",
+	"Train again": "القطار مرة أخرى",
+	"Restart": "الراحة",
+	"Revenge": "الانتقام",
+	"Perfect!": "رائع !",
+	"Final score": "النتيجة النهائية",
+	"Errors": "الأشرار",
+	"Rematch": "ريماتش",
+	"Game Over!": "انتهت اللعبة!",
+	"Quick Game": "لعبة سريعة",
+	"None": "لا",
+	"Wood": "وود",
+	"Bronze": "برونزي",
+	"Silver": "سيلفر",
+	"Platinium": "Platinium",
+	"Gold": "الذهب",
+	"Mercury": "الزئبق",
+	"Diamond": "الماس",
+	"Uranium": "Uranium",
+	"\"Country\" is defined as a territory recognised by the United Nations": "\"كونتري\" تعرف بأنها إقليم تعترف به الأمم المتحدة",
+	"Difficulty": "صعوبة",
+	"Not country": "ليس بلد",
+	"Profile picture GIF": "صورة ملفوفة",
+	"Banner GIF": "Banner GIF",
+	"Yes": "نعم",
+	"No": "لا",
+	"Nice try!": "محاولة جيدة!",
+	"You can do it!": "يمكنك فعلها",
+	"Come on, come on!": "هيا، هيا!",
+	"Good luck!": "حظاً موفقاً",
+	"Oops": "Oops",
+	"Well played!": "لعبت جيدا!",
+	"OMG": "MOMG",
+	"lol": "لول",
+	"Noooooooooo": "Noooooooo",
+	"GG": "GG",
+	"Thanks!": "شكراً",
+	"Easy!": "على مهلك!",
+	"Hello 👋": "مرحباً",
+	"Winner": "الفائز",
+	"Nobody": "لا أحد",
+	"Friend": "صديق",
+	"It's a tie!": "إنها ربطة عنق",
+	"You won!": "لقد فزت",
+	"You lost!": "لقد خسرت",
+	"OR": "أو",
+	"You can drop the image now!": "يمكنك إسقاط الصورة الآن!",
+	"Upload an image for the \"{v}\"": "تحميل صورة ل \" {v}\"",
+	"Post an image": "ضع صورة",
+	"Turn": "استدر",
+	"SUBMIT": "SUBMIT",
+	"Before": "قبل",
+	"After": "بعد",
+	"Loading": "",
+	"Here is the part about the settings.": "هذا هو الجزء عن البيئات",
+	"Here you can customize your experience, you can:": "هنا يمكنك تكييف تجربتك",
+	"Change your profile (your name, description, profile picture, banner ...)": "غيّر ملفك الشخصي (اسمك، وصف، صورة ملفّة، لافتة ...)",
+	"Manage social relations (Report users, block users)": "إدارة العلاقات الاجتماعية (مستعملو التقارير، مستعملو المباني)",
+	"Manage informations like your language or notifications": "إدارة المعلومات مثل لغتك أو الإخطارات",
+	"Disconnect from Flag Fight": "انفصال عن معركة فلاغ",
+	"Here is the part about the Shop.": "هذا هو الجزء المتعلق بالمحل",
+	"To buy items in the shop, you must have coins. You can get these coins by playing flag fight in multiplayer.": "لشراء الأشياء في المتجر لابد أن لديك عملات يمكنك الحصول على هذه العملات من خلال لعب مكافحة العلم في اللاعبين المتعددين.",
+	"You will start with 1000 coins.": "ستبدأ بـ 1000 عملة",
+	"There is 3 differents things that you can do it the Shop:": "هناك 3 أشياء مختلفة يمكنك فعلها",
+	"Buy flags": "اشتر الأعلام",
+	"In flag fight, you can buy flags and try to collect them all. But in addition to that, you can choose to represent any flag you have purchased by putting it on your profile.": "في معركة العلم، يمكنك شراء الأعلام ومحاولة جمعها كلها. ولكن بالإضافة إلى ذلك، يمكنك اختيار لتمثيل أي علم اشتريته بوضعه على ملفك الشخصي",
+	"Buy messages": "أشتري رسائل",
+	"In flag fight, you can buy messages, that you can send to your opponent during the game.": "في معركة العلم، يمكنك شراء الرسائل، أن يمكنك إرسال إلى خصمك خلال اللعبة.",
+	"Buy profile customisation": "شراء التكييف",
+	"In flag fight, you can buy profile customization. This is characterized by 3 things, being able to buy a banner, a GIF profl photo and a GIF banner.": "في معركة العلم، يمكنك شراء التكييف ويتميز هذا بثلاثة أشياء، وتمكنه من شراء لافتة، وصورة موجة GIF، وعلامة GIF.",
+	"The home is the place where you can easily navigate between the different pages.": "المنزل هو المكان الذي يمكنك أن تبحر فيه بسهولة بين الصفحات المختلفة",
+	"Here are all the pages you can go to:": "هنا كل الصفحات التي يمكنك الذهاب إليها:",
+	"Ranked games.": "تلاعب.",
+	"Ranked games are games where the ELO (your level) is important. In ranked games, you will play with people of your level, the questions will be more adapted to your level.": "الألعاب المجردة هي ألعاب حيث يكتسي الـ(إيلو) أهمية في ألعاب مرتبة، ستلعب مع أشخاص من مستواك الأسئلة ستكون أكثر تكيفاً مع مستواك",
+	"Quick games.": "ألعاب سريعة",
+	"Quick games, are games without pressure, where losing does not affect your ELO. You can run into any type of player.": "الألعاب السريعة، هي ألعاب بدون ضغط، حيث الخسارة لا تؤثر على ELO الخاص بك. يمكنك الركض إلى أي نوع من اللاعبين.",
+	"Training.": "التدريب.",
+	"Training, is a single player mode, where you can train on any flag with very precise criteria, for a personalized learning while having fun!": "التدريب، هو نمط لاعب واحد، حيث يمكنك تدريب على أي علم مع معايير دقيقة جدا، للتعلم الشخصي أثناء المتعة!",
+	"Leaderboard.": "لوح القيادة",
+	"The leaderboard, is the place where you can see the ranking of everyone. You can filter the leaderboard by country, and even have a leaderboard that ranks the countries with the most ELO": "لوحة القيادة، هو المكان حيث يمكنك رؤية ترتيب الجميع. يمكنك تصفية لوحة القيادة حسب البلد، وحتى أن يكون لها لوحة قيادة تصنف البلدان مع أكثر ELO",
+	"Collection.": "جمع.",
+	"In collection, you can see all the items in the shop (also accessible from the shop), and you can filter them by the ones you have, and the ones you don't have.": "في التحصيل، يمكنك رؤية كل الأشياء في المحل (متاحة أيضاً من المتجر) ويمكنك تصفية هذه الأشياء من قبل الذين لديك،",
+	"History.": "التاريخ",
+	"History is where you can see the history of the games you have had.": "التاريخ هو المكان الذي يمكنك أن ترى فيه تاريخ الألعاب التي لديك",
+	"In the friend category, you can manage everything related to your friends or your notifications.": "في فئة الأصدقاء يمكنك إدارة كل شيء يتعلق بأصدقائك أو إخطاراتك",
+	"There is 4 things you can do:": "هناك 4 أشياء يمكنك القيام بها:",
+	"Add a user.": "أضف مستعملاً",
+	"You can add a user as a friend by it's name.": "يمكنك إضافة مستعمل كصديق بإسمه",
+	"Check your notifications.": "تحقق من إخطاراتك",
+	"You can see all the notifications you have received and interact with them if it is not too late": "يمكنك رؤية كل الإخطارات التي تلقيتها والتفاعل معها إذا لم يفت الأوان",
+	"Interact with your friends.": "تفاعل مع أصدقائك.",
+	"You can interact with your friends, inviting them to play with you (as it is possible to play with your friends by inviting them, however you will not earn coins), you can also remove them from your friends.": "يمكنك التفاعل مع أصدقائك، دعوة لهم للعب معك (بقدر ما يكون من الممكن اللعب مع أصدقائك بدعوتهم، مهما كنت لن تحصل على عملات)، يمكنك أيضا أن تزيلهم من أصدقائك.",
+	"Manage friend requests.": "طلبات الأصدقاء",
+	"You also have a tab specifically for managing friend requests that you have received. You can either accept or decline them.": "لديك أيضاً خطاب خاص لإدارة طلبات الأصدقاء التي تلقيتها يمكنك إما قبولها أو رفضها",
+	"In the profile category, you can see your profile, and an overview of some quick data.": "في فئة المواصفات يمكنك رؤية ملفك و لمحة عامة عن بعض البيانات السريعة",
+	"When you click on someone's name (like a friend), the page will have the same format.": "عندما تضغط على اسم شخص ما (كصديق) الصفحة سيكون لها نفس الشكل",
+	"Welcome to": "مرحبا بكم في",
+	"Flag Fight is a game about flags!": "معركة العلم هي لعبة حول الأعلام!",
+	"Here is how you can use Flag Fight, click on icons to have more information:": "هنا كيف يمكنك استخدام معركة فلاغ، نضغط على Icons للحصول على مزيد من المعلومات:",
+	"START!": "ستارت!"
+}

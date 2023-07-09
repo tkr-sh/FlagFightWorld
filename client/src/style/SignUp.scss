@@ -1,0 +1,297 @@
+@import "Variables.scss";
+
+
+$form-width: 600px;
+$input-width: 90%;
+$button-width: 50%;
+
+// html {
+// 	height: 100vh;
+// 	overflow: hidden;
+// 	width: 100vw;
+// }
+
+// body		{
+// 	display: flex;
+// 	align-items: center;
+// 	justify-content: center;
+// 	height: 100vh;
+// 	width: 100vw;
+// 	overflow: hidden;
+// }
+
+.SignUp, .verify-email {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	width: 100vw;
+	overflow: hidden;
+}
+
+
+video {
+	position: absolute;
+	left: 0;
+	top: 0px;
+	// width: 100vw;
+	// height: 100vh; height: 100dvh; height: -webkit-fill-available;
+	filter: hue-rotate(-100deg);
+	background-size: contain;
+}
+
+
+
+.signup-form {
+	position: relative;
+	z-index: 1000;
+	max-width: $form-width;
+	margin: auto auto;
+	text-align: center;
+	// background-color: rgba($bg-color, 0.9);
+
+	@supports ((-webkit-backdrop-filter: none) or (backdrop-filter: none)) {
+		backdrop-filter: blur(50px);
+		border: solid #fff6 3px;
+	}
+	@supports not ((-webkit-backdrop-filter: none) or (backdrop-filter: none)) {
+		background-color: rgba($bg-color, 0.9);
+	}
+		
+	border-radius: 10px;
+	padding: 0.8em;
+
+	@media screen and (max-height: 650px) {
+		padding: 0.3em;
+	}
+
+	h1 {
+		font-size: 1.7em;
+		margin: 0.5em 0;
+
+		@media screen and (max-height: 650px) {
+			margin-bottom: 0.1em;
+		}
+
+		@media screen and (max-height: 650px) {
+			font-size: 1.5em;
+		}
+	}
+
+	h2 {
+		margin: 0.1em 0;
+		font-size: 1em;
+		font-weight: 500;
+	}
+
+	p {
+		margin: 0.1em 0;
+		font-size: 0.8em;
+		@media screen and (max-height: 650px) {
+			margin-bottom: -1em;
+			font-size: 0.6em;
+		}
+	}
+
+	form {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		margin: 1em 0;
+
+		@media screen and (max-height: 650px) {
+			margin-bottom: 0em;
+		}
+
+		label {
+			display: block;
+			margin-top: 0.7em;
+			margin-bottom: 0.2em;
+			font-size: 1.2em;
+			width: $input-width;
+			text-align: left;
+			font-weight: 600;
+
+
+			@media screen and (max-height: $small-height) {
+				margin-top: 0.4em;
+				margin-bottom: 0em;
+			}
+
+			@media screen and (max-height: 650px) {
+				margin-top: 0.2em;
+				margin-bottom: 0em;
+			}
+		}
+
+		input {
+			width: $input-width;
+			padding: 0.5em;
+			border: none;
+			border-radius: 4px;
+			font-size: 1.2em;
+			background-color: darken($bg-color, 5%);
+			color: #fff;
+
+			@media screen and (max-height: $small-height) {
+				padding: 0.3em;
+			}
+
+			@media screen and (max-height: 650px) {
+				padding: 0.1em;
+			}
+		}
+
+		button {
+			width: $button-width;
+			padding: 0.5em;
+			margin: 1em 0;
+			border: none;
+			border-radius: 4px;
+			background-color: $main-color;
+			color: #fff;
+			font-size: 1.2em;
+			font-weight: 600;
+			cursor: pointer;
+			transition: .3s;
+
+			@media screen and (max-height: $small-height) {
+				margin: 0.5em 0;
+			}
+			
+			@media screen and (max-height: 650px) {
+				margin: 0.3em 0;
+			}
+
+			&:hover {
+				background-color: darken($main-color, 10%);
+			}
+		}
+	}
+
+	a {
+		color: $main-color;
+		text-decoration: none;
+		transition: .3s;
+
+		&:hover {
+			filter: brightness(140%);
+		}
+	}
+
+
+	@media screen and (max-height: 800px) {
+		height: calc(100vh - 1.6em - 6px) !important;
+		border-radius: 0px;
+	}
+}
+
+.spacer {
+	width: $input-width;
+	height: 5px;
+	background-color: #fff;
+	margin-top: 10px;
+	margin-bottom: -5px;
+}
+
+.oauth2-buttons {
+	display: flex;
+	justify-content: space-between;
+	margin: 1em 0;
+	@media screen and (max-height: 650px) {
+		margin: 0.3em 0;
+	}
+	
+	width: $input-width;
+
+	button {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		font-size: 100px;
+		border: none;
+		border-radius: 4px;
+		cursor: pointer;
+		transition: background-color 0.2s;
+		width: calc(100% / 3 - 10px) !important;
+		@media screen and (max-height: 650px) {
+			padding: 0.2em !important;
+		}
+		
+		svg {
+			height: 40px;
+			width: 40px;
+
+			@media screen and (max-height: 650px) {
+				height: 25px;
+				width: 25px;
+			}
+		}
+
+		&.google-button {
+			background-color: #4285f4;
+			color: #fff;
+
+			&:hover {
+				background-color: #35C;
+			}
+		}
+
+		&.github-button {
+			background-color: #333;
+			color: #fff;
+
+			&:hover {
+				background-color: #222;
+			}
+		}
+
+		&.stackoverflow-button {
+			background-color: #f48024;
+			color: #fff;
+
+			&:hover {
+				background-color: #d4691e;
+			}
+		}
+
+		&.discord-button {
+			background-color: #5865F2;
+			color: #fff;
+
+			&:hover {
+				background-color: #34C;
+			}
+		}
+	}
+}
+
+
+.verify-box {
+	@media screen and (max-width: 600px) {
+		max-width: calc(100vw - 24px);
+		padding: 5px;
+		overflow: hidden;
+	}
+	@media screen and (max-height: 800px) {
+		height: auto !important;
+	}
+}
+
+.verify-email {
+	h1 {
+		margin: 0
+	}
+
+	h3 {
+		font-weight: 400;
+		margin: 0;
+	}
+
+	.verify-form {
+		input {
+			text-align: center;
+			font-size: 20px;
+		}
+	}
+}

@@ -1,0 +1,34 @@
+
+
+.page-search {
+    background-color: $div-color;
+    width: 100%;
+    min-height: 50px;
+    border-radius: 10px;
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 10px;
+
+
+    button {
+        all: unset;
+        width: 25px;
+        border-radius: 5px;
+        text-align: center;
+        transition: .3s;
+        cursor: pointer;
+
+        &:hover {
+            filter: brightness(1.3);
+            background-color: $div-color;
+        }
+    }
+
+    img {
+        height: 18px;
+        cursor: pointer;
+    }
+}

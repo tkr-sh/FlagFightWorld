@@ -1,0 +1,32 @@
+@keyframes show {
+    from {transform: translateY(-100%);}
+    to {transform: translateY(0%);}
+}
+
+
+.ErrorMessage {
+    position: fixed;
+    width: 84vw;
+    min-height: 80px;
+    background-color: #467E;
+    z-index: 9999999999;
+    margin-left: 8vw;
+    top: 10px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+    cursor: pointer;
+    column-gap: 10px;
+    color: #fcc;
+    animation: .3s cubic-bezier(.25,.77,.61,1.15) show;
+
+    svg {
+        height: 30px;
+        margin-left: 10px;
+        path {
+            fill: inherit !important;
+        }
+    }
+}

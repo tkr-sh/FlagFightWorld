@@ -1,0 +1,222 @@
+Here the list of items to translate:
+- Settings
+- Shop
+- Home
+- Friends
+- Profile
+- Username
+- Description
+- Banner
+- Profile picture
+- Social
+- Blocker users
+- Report user
+- More
+- Notifications
+- Flags
+- Messages
+- My articles
+- Only
+- Both
+- Term of services
+- Privacy policy
+- Log out
+- Delete account
+- Money
+- Flag
+- Messages
+- Customization
+- See all the items
+- Ranking
+- Quick game
+- Practice
+- History
+- Collection
+- Top
+- Statistics
+- Rank
+- ELO
+- Friend requests
+- More
+- Social
+- Profile
+- Quit
+- Learn the flag of
+- with
+- Don't wait any longer, learn flags while having fun, with a multitude of options to learn! Sign up for flag fight or log in.
+- Sign up
+- Log in
+- Create an account!
+- Join all the users who have already signed up and start quizzing today!
+- Come back to Flag Fight and keep learning while having fun!
+- Username
+- Email
+- Password
+- Confirm Password
+- Already have an account?
+- Log in here
+- Sign up here
+- Don't have an account?
+- Do you want to train on country ?
+- Country
+- No country
+- Country & No Country
+- Personnalized
+- On which continent do you want to train?
+- All
+- Africa
+- Asia
+- Europe
+- North America
+- Central America and Caribbean
+- Oceania
+- South America
+- All difficulties
+- Basic
+- Beginner
+- Easy
+- Normal
+- Novice
+- Medium
+- Intermediate
+- Hard
+- Advanced
+- Expert
+- Question
+- Score
+- Global leaderboard
+- Flag leaderboard
+- Online
+- Offline
+- Pending
+- No friend requests for the moment
+- Drag and drop an image here
+- Choose an image from your computer
+- Remove image
+- Upload image
+- Quick game
+- League
+- Change language
+- Blocked users
+- Add a friend...
+- More info
+- On which difficulty do you want to train ?
+- Type
+- Waiting
+- Quickgame
+- Searching
+- UNO country
+- All continents
+- Training
+- Leaderboard
+- Flag preview
+- All articles
+- PLAYERS
+- MEAN ELO
+- Name
+- All
+- Do you want to continue ?
+- Play again
+- Round
+- You don't have any message, but you can buy some after the game.
+- Train again
+- Restart
+- Revenge
+- Perfect!
+- Final score
+- Errors
+- Rematch
+- Game Over!
+- Quick Game
+- None
+- Wood
+- Bronze
+- Silver
+- Platinium
+- Gold
+- Mercury
+- Diamond
+- Uranium
+- "Country" is defined as a territory recognised by the United Nations
+- Difficulty
+- Not country
+- Profile picture GIF
+- Banner
+- Banner GIF
+- Yes
+- No
+- Nice try!
+- You can do it!
+- Come on, come on!
+- Good luck!
+- Oops
+- Well played!
+- OMG
+- lol
+- Noooooooooo
+- GG
+- Thanks!
+- Easy!
+- Hello 👋
+- Winner
+- Nobody
+- Friend
+- It's a tie!
+- You won!
+- You lost!
+- OR
+- You can drop the image now!
+- Profile picture
+- Upload an image for the "{v}"
+- Post an image
+- Turn
+- SUBMIT
+- Before
+- After
+- Loading
+- Here is the part about the settings.
+- Here you can customize your experience, you can:
+- Change your profile (your name, description, profile picture, banner ...)
+- Manage social relations (Report users, block users)
+- Manage informations like your language or notifications
+- Disconnect from Flag Fight
+- Here is the part about the Shop.
+- To buy items in the shop, you must have coins. You can get these coins by playing flag fight in multiplayer.
+- You will start with 1000 coins.
+- There is 3 differents things that you can do it the Shop:
+- Buy flags
+- In flag fight, you can buy flags and try to collect them all. But in addition to that, you can choose to represent any flag you have purchased by putting it on your profile.
+- Buy messages
+- In flag fight, you can buy messages, that you can send to your opponent during the game.
+- Buy profile customisation
+- In flag fight, you can buy profile customization. This is characterized by 3 things, being able to buy a banner, a GIF profl photo and a GIF banner.
+- The home is the place where you can easily navigate between the different pages.
+- Here are all the pages you can go to:
+- Ranked games.
+- Ranked games are games where the ELO (your level) is important. In ranked games, you will play with people of your level, the questions will be more adapted to your level.
+- Quick games.
+- Quick games, are games without pressure, where losing does not affect your ELO. You can run into any type of player.
+- Training.
+- Training, is a single player mode, where you can train on any flag with very precise criteria, for a personalized learning while having fun!
+- Leaderboard.
+- The leaderboard, is the place where you can see the ranking of everyone. You can filter the leaderboard by country, and even have a leaderboard that ranks the countries with the most ELO
+- Collection.
+- In collection, you can see all the items in the shop (also accessible from the shop), and you can filter them by the ones you have, and the ones you don't have.
+- History.
+- History is where you can see the history of the games you have had.
+- In the friend category, you can mangage everything related to your friends or your notifications.
+- There is 4 things you can do:
+- Add a user.
+- You can add a user as a friend by it's name.
+- Check your notifications.
+- You can see all the notifications you have received and interact with them if it is not too late
+- Interact with your friends.
+- You can interact with your friends, inviting them to play with you (as it is possible to play with your friends by inviting them, however you will not earn coins), you can also remove them from your friends.
+- Manage friend requests.
+- You also have a tab specifically for managing friend requests that you have received. You can either accept or decline them.
+- In the profile category, you can see your profile, and an overview of some quick data.
+- When you click on someone's name (like a friend), the page will have the same format.
+- Welcome to
+- Flag Fight is a game about flags!
+- Here is how you can use Flag Fight, click on icons to have more information:
+- START!

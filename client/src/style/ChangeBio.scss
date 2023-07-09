@@ -1,0 +1,80 @@
+@import "./Variables.scss";
+
+.Change-Bio {
+    background-color: $div-color;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 86vw;
+    position: fixed;
+    left: 7vw;
+    z-index: 999999999;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-block: 20px;
+    min-height: 100px;
+    border-radius: 10px;
+    font-weight: 600;
+    font-size: 30px;
+    row-gap: 10px;
+
+    .content-part {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: row;
+    }
+
+    button {
+        width: 90%;
+        font-weight: 700;
+        background-color: $main-color;
+        text-align: center;
+        transition: .3s;
+        display: flex;
+        justify-content: center;
+        cursor: pointer;
+        
+        &:hover {
+            background-color: lighten($color: $main-color, $amount: 5%);
+        }
+    }
+
+
+    .arrow {
+        flex-grow: 1;
+        width: 30px;
+        height: 100%;
+        transform: rotateZ(-90deg) translateX(-20px);
+    }
+
+    .part {
+        flex-grow: 1000;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        width: 100%;
+        
+        textarea {
+            color: inherit;
+            outline: none;
+            border: none;
+            height: auto;
+            line-height: 25px;
+        }
+
+        .bio-content {
+            width: calc(90% - 20px);
+            background-color: $dav-color;
+            padding: 10px;
+            border-radius: 5px;
+            font-size: 20px;
+            font-weight: 400;
+            max-height: 70vh;
+        }
+    }
+
+}
