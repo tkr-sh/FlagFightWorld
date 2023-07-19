@@ -100,7 +100,7 @@ const Online = () => {
         stopTimer();
 
         // Get the information about the game
-        authFetch(`http://localhost:5000/api/v1/game-informations?token=${localStorage.getItem('token')}&gameId=${searchParams.get('id')}`, {headers: {"Custom-Header": "Test"}})
+        authFetch(`http://localhost:3000/api/v1/game-informations?token=${localStorage.getItem('token')}&gameId=${searchParams.get('id')}`, {headers: {"Custom-Header": "Test"}})
         .then(response => {
             setGameInfo(() => response);
             // If the game has already started
@@ -112,13 +112,13 @@ const Online = () => {
         })
 
         // Get the name of the user
-        authFetch(`http://localhost:5000/api/v1/name/:token?token=${localStorage.getItem('token')}`, {headers: {"Custom-Header": "Test"}})
+        authFetch(`http://localhost:3000/api/v1/name/:token?token=${localStorage.getItem('token')}`, {headers: {"Custom-Header": "Test"}})
         .then(response => {
             userNameRef.current.innerHTML = response.name;
         });
 
         // Get the personnal articles
-        authFetch(`http://localhost:5000/api/v1/personnal-articles`)
+        authFetch(`http://localhost:3000/api/v1/personnal-articles`)
         .then(response => {
             setChat(() => response.chat)
         });
@@ -374,7 +374,7 @@ const Online = () => {
             body: JSON.stringify({token: localStorage.getItem('token'), answer: answer, gameId: searchParams.get("id")})
         }
 
-        authFetch(`http://localhost:5000/api/v1/answer-game`, requestOptions)
+        authFetch(`http://localhost:3000/api/v1/answer-game`, requestOptions)
         .then(json => {
             // console.log(json);
             // console.log(json.err)

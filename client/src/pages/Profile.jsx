@@ -97,7 +97,7 @@ const Profile = () => {
             body: JSON.stringify({name: userData.name})
         }
 
-        authFetch(`http://localhost:5000/api/v1/send-friend-request`, requestOptions)
+        authFetch(`http://localhost:3000/api/v1/send-friend-request`, requestOptions)
         .then(rep => {
             if (rep.err !== undefined) {
                 handleError(rep.err);
@@ -143,14 +143,14 @@ const Profile = () => {
 
     const getStats = () => {
         
-        authFetch(`http://localhost:5000/api/v1/stats` + (searchParams.get('name') !== null ? `?name=${searchParams.get('name')}` : ""))
+        authFetch(`http://localhost:3000/api/v1/stats` + (searchParams.get('name') !== null ? `?name=${searchParams.get('name')}` : ""))
         .then(rep => setStats(() => rep));
     }
 
 
     /// Get the new relation between the 2 users again
     const getRelation = () => {
-        authFetch(`http://localhost:5000/api/v1/relations?name=`+searchParams.get("name"))
+        authFetch(`http://localhost:3000/api/v1/relations?name=`+searchParams.get("name"))
         .then(rep => setRelation(() => rep.relation));
     }
 
@@ -163,7 +163,7 @@ const Profile = () => {
             body: JSON.stringify({name: searchParams.get("name")})
         }
 
-        authFetch(`http://localhost:5000/api/v1/block-user`, requestOptions)
+        authFetch(`http://localhost:3000/api/v1/block-user`, requestOptions)
         .then(getRelation);
     }
 
@@ -172,13 +172,13 @@ const Profile = () => {
         if (searchParams.get('name') !== null) {
             getRelation();
 
-            authFetch("http://localhost:5000/api/v1/player-informations?name="+searchParams.get('name'))
+            authFetch("http://localhost:3000/api/v1/player-informations?name="+searchParams.get('name'))
             .then(rep => {
                 setUserData(prevJson => updateJson(prevJson, rep));
                 console.log(rep)
 
                 // Get our name
-                authFetch("http://localhost:5000/api/v1/name/:token?token="+localStorage.getItem("token"))
+                authFetch("http://localhost:3000/api/v1/name/:token?token="+localStorage.getItem("token"))
                 .then(rep2 => setSelf(() => rep2.name === searchParams.get('name')))
             })
         } else {
@@ -186,10 +186,10 @@ const Profile = () => {
             setSelf(true);
 
             // Get our name
-            authFetch("http://localhost:5000/api/v1/name/:token?token="+localStorage.getItem("token"))
+            authFetch("http://localhost:3000/api/v1/name/:token?token="+localStorage.getItem("token"))
             .then(rep => {
 
-                authFetch("http://localhost:5000/api/v1/player-informations?name="+rep.name)
+                authFetch("http://localhost:3000/api/v1/player-informations?name="+rep.name)
                 .then(rep2 => {
                     if (rep2 !== userData) {
                         console.log("update")
@@ -209,7 +209,7 @@ const Profile = () => {
     /// If it's our profile, get our friends
     useEffect(() => {
         if (self) {
-            authFetch(`http://localhost:5000/api/v1/friends`)
+            authFetch(`http://localhost:3000/api/v1/friends`)
             .then(rep => {
                 setFriendList(rep);
                 localStorage.setItem("listFriends", JSON.stringify(rep));
@@ -232,7 +232,7 @@ const Profile = () => {
                     <>
                         <UploadImage
                             name="Profile picture"
-                            link="http://localhost:5000/api/v1/informations"
+                            link="http://localhost:3000/api/v1/informations"
                             exitFunction={() => setUploadImage(false)}
                             type="pfp"
                             requestOptions={{
@@ -253,7 +253,7 @@ const Profile = () => {
                     <>
                         <UploadImage
                             name="Banner"
-                            link="http://localhost:5000/api/v1/informations"
+                            link="http://localhost:3000/api/v1/informations"
                             exitFunction={() => setUploadImage(false)}
                             type="banner"
                             requestOptions={{

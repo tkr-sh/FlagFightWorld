@@ -24,7 +24,7 @@ const FriendRequest = ({name, profilePicture, country, refresh}) => {
             body: JSON.stringify({name: name})
         }
     
-        authFetch(`http://localhost:5000/api/v1/send-friend-request`, requestOptions)
+        authFetch(`http://localhost:3000/api/v1/send-friend-request`, requestOptions)
         .then(refresh);
     }
 
@@ -36,7 +36,7 @@ const FriendRequest = ({name, profilePicture, country, refresh}) => {
             body: JSON.stringify({name: name})
         }
 
-        authFetch(`http://localhost:5000/api/v1/deny-friend-request`, requestOptions)
+        authFetch(`http://localhost:3000/api/v1/deny-friend-request`, requestOptions)
         .then(refresh);
     }
 

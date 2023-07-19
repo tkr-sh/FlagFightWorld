@@ -41,7 +41,7 @@ const Friends = () => {
     // Functions
     //// Get the list of friends of the user
     const getMyFriends = () => {
-        authFetch(`http://localhost:5000/api/v1/friends`)
+        authFetch(`http://localhost:3000/api/v1/friends`)
         .then(rep => {
             setFriends(rep);
             localStorage.setItem("listFriends", JSON.stringify(rep));
@@ -56,7 +56,7 @@ const Friends = () => {
             body: JSON.stringify({name: name})
         }
 
-        authFetch(`http://localhost:5000/api/v1/send-friend-request`, requestOptions)
+        authFetch(`http://localhost:3000/api/v1/send-friend-request`, requestOptions)
         .then((rep) => {
             // Check if there is an error
             if (rep.err) {
@@ -73,7 +73,7 @@ const Friends = () => {
 
     //// Get all the friend requests of the user
     const getFriendRequests = () => {
-        authFetch(`http://localhost:5000/api/v1/friend-requests`)
+        authFetch(`http://localhost:3000/api/v1/friend-requests`)
         .then(rep => setFriendRequests(rep))
     }
 
@@ -88,7 +88,7 @@ const Friends = () => {
 
     /// Search a user by it's name
     const searchUser = (name) => {
-        authFetch(`http://localhost:5000/api/v1/user?name=${name}`)
+        authFetch(`http://localhost:3000/api/v1/user?name=${name}`)
         .then(rep => setUserSelection(rep || []))
         setUserName(name);
     }
@@ -108,7 +108,7 @@ const Friends = () => {
 
     //// Get the notifications of the user
     const getNotification = () => {
-        authFetch("http://localhost:5000/api/v1/notification")
+        authFetch("http://localhost:3000/api/v1/notification")
         .then((rep) => {
             rep = rep.map(notif => {
                 const type = notif.description === "Send you a friend request!" ? "friendRequest" : "gameRequest";

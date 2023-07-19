@@ -97,7 +97,7 @@ export const login = async (req, res) => {
  * 
  * @returns void
  */
-export const createAccount = async ({name, pwd=null, email=null, google=null, discord=null, github=null, pfp="http://localhost:3000/user.png", bio="-"}) => {
+export const createAccount = async ({name, pwd=null, email=null, google=null, discord=null, github=null, pfp="https://www.flagfight.world/user.png", bio="-"}) => {
 
     // Generate the token
     const token = jwt.sign({}, process.env.SALT);
@@ -658,7 +658,6 @@ export const getNotification = async(req, res) => {
  * @returns void
  */
 export const sendNotification = async (fromToken, toName, type, io) => {
-    console.log("<========= SendNotification ==========>")
 
     
     const sender = jsonFind(await db.collection('users').findOne({token: fromToken},
@@ -666,10 +665,6 @@ export const sendNotification = async (fromToken, toName, type, io) => {
     const receiver = jsonFind(await db.collection('users').findOne({name: toName},
         { projection: {_id: 1, token: 1}}));
     let description;
-
-    console.log(toName);
-    console.log(JSON.stringify(sender))
-    console.log(JSON.stringify(receiver))
 
 
     if (receiver === null) {
@@ -699,19 +694,6 @@ export const sendNotification = async (fromToken, toName, type, io) => {
     });
 
 
-    console.log("Sending notification...");
-
-
-    console.log(receiver.token)
-
-    // io.emit("notification", {
-    //     image: sender.pfp,
-    //     name: sender.name,
-    //     flag: sender.country,
-    //     txt: description,
-    //     type: type
-    // })
-
 
     // Send the notification to the user
     io.to(""+receiver.token).emit("notification", {
@@ -723,7 +705,6 @@ export const sendNotification = async (fromToken, toName, type, io) => {
         type: type
     });
 
-    console.log("Notification sent...")
 
 
     return {msg: "No problem."};
@@ -1077,6 +1058,12 @@ export const getMyFriends = async (req, res) => {
     const data = jsonFind(await db.collection("users").findOne({token: token}, {projection: {friends: 1, _id: 1}}));
     const originId = data._id;
 
+    if (data.friends === undefined) {
+        await db.collection("users").updateOne({token: token}, {$set: {friends: []}});
+        res.json({})
+        return;
+    }
+
 
     const friendsData = await data.friends.map(
         async (friend) => {
@@ -1330,7 +1317,7 @@ export const buyArticle = async (req, res) => {
             case "advantage":
                 switch (name) {
                     case "Banner":
-                        await db.collection("users").updateOne({token: token}, {$set: {banner: "http://localhost:3000/banner.jpg"}});
+                        await db.collection("users").updateOne({token: token}, {$set: {banner: "https://www.flagfight.world/banner.jpg"}});
                         break;
                     case "Profile picture GIF":
                         await db.collection("users").updateOne({token: token}, {$set: {pfpGif: true}});
@@ -1381,28 +1368,6 @@ export const getItemPromotion = async (req, res) => {
     if (state.modifiedCount > 0) {
         
         updateDaily();
-        // let flag, chat;
-
-        // while (flag === undefined || flag.length !== 5) {
-        //     flag = await db.collection("article").aggregate([
-        //         { $match: { type: "flag" } },
-        //         { $sample: { size: 5 } }
-        //     ]).toArray();
-
-        //     console.log(flag)
-        // }
-
-        // while (chat === undefined || chat.length !== 5) {
-        //     chat = await db.collection("article").aggregate([
-        //         { $match: { type: "chat" } },
-        //         { $sample: { size: 5 } }
-        //     ]   ).toArray();
-        // }
-
-        // // console.log(flag, chat);
-        // // console.log("Updated the promotioon section")
-
-        // await db.collection("daily").updateOne({}, {$set: {flag: flag, chat: chat}});
     }
 
     let information = jsonFind(await db.collection('daily').findOne({}, {projection: {flag: 1, chat: 1, _id: 0}}));
@@ -1651,9 +1616,9 @@ export const getGameInformation = async (req, res) => {
         console.log([question, answers, type])
         if (type === "name") {
             question = convertCountry[question];
-            answers = answers.map(flag => `http://localhost:3000/flags/main/${flag}.svg`);
+            answers = answers.map(flag => `https://www.flagfight.world/flags/main/${flag}.svg`);
         } else {
-            question = `http://localhost:3000/flags/main/${question}.svg`;
+            question = `https://www.flagfight.world/flags/main/${question}.svg`;
             answers = answers.map(flag => convertCountry[flag]);
         }
     }
@@ -2520,16 +2485,6 @@ export const joinGame = async (data, io, socket) => {
                     }
                 );
 
-
-                console.log(game);
-                console.log(game?.players);
-                if (game) {
-                    console.log(game?.players[0].blockedUsers[0]);
-                    console.log(typeof game?.players[0].blockedUsers[0]);
-                }
-                console.log(information.blockedUsers);
-                console.log(typeof information.blockedUsers[0]);
-                console.log(information._id);
 
                 // If there is one game
                 if (game !== null) {

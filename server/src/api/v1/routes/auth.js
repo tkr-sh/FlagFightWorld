@@ -7,7 +7,7 @@ import * as dotenv from 'dotenv';
 dotenv.config();
 
 
-const CALLBACK_URL = "http://localhost:3000/auth/"
+const CALLBACK_URL = "https://www.flagfight.world/auth/"
 
 
 

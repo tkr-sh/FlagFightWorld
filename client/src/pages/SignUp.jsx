@@ -53,7 +53,7 @@ function SignUp({login=false}) {
 		//// Sending the request
 		// If the user wants to log in
 		if (login) {
-			await fetch(`http://localhost:5000/auth/login`, requestOptions)
+			await fetch(`http://localhost:3000/auth/login`, requestOptions)
 			.then(rep => rep.json())
 			.then(rep => {
 				// If there is an error
@@ -72,7 +72,7 @@ function SignUp({login=false}) {
 		}
 		// If the user wants to create an account
 		else {
-			await fetch(`http://localhost:5000/auth/createEmailAccount`, requestOptions)
+			await fetch(`http://localhost:3000/auth/createEmailAccount`, requestOptions)
 			.then(rep => rep.json())
 			.then(rep => {
 				console.log(rep)
@@ -92,7 +92,7 @@ function SignUp({login=false}) {
 		if (oauth2 === "discord")
 			document.location.href = `https://discord.com/api/oauth2/authorize?client_id=1079720455407140944&redirect_uri=https%3A%2F%2Fwww.flagfight.world%2Fauth%2Fdiscord%2Fcallback&response_type=code&scope=email%20identify`
 		else 
-			document.location.href = `http://localhost:5000/auth/${oauth2}`;
+			document.location.href = `http://localhost:3000/auth/${oauth2}`;
 	}
 
 
@@ -132,7 +132,7 @@ function SignUp({login=false}) {
 
 	return (
 		<div className='SignUp'>
-			<video autoPlay muted loop ref={backgroundVideo}>
+			<video autoPlay playsInline muted loop ref={backgroundVideo}>
 				<source src={video}  type="video/mp4"/>
 			</video>
 			<div className="signup-form" ref={formRef}>

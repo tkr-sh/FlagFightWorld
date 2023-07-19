@@ -40,7 +40,7 @@ const Article = ({flag=null, price=0, message=null, img=null, style=null, bought
         }
 
         
-        authFetch(`http://localhost:5000/api/v1/informations`, requestOptions)
+        authFetch(`http://localhost:3000/api/v1/informations`, requestOptions)
         .then(rep => {
             if (rep.err) {
                 handleError(rep.err);

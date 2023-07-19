@@ -33,7 +33,7 @@ const Leaderboard = () => {
 
 
     const getFlagElo = () => {
-        authFetch("http://localhost:5000/api/v1/flag-elo")
+        authFetch("http://localhost:3000/api/v1/flag-elo")
         .then(rep => {
             console.log(rep.sort((a,b) => a.elo < b.elo ? 1 : -1))
             setLeaderboardFlag(rep.sort((a,b) => a.elo < b.elo ? 1 : -1));
@@ -46,7 +46,7 @@ const Leaderboard = () => {
             pageParam = page;
         }
 
-        authFetch(`http://localhost:5000/api/v1/leaderboard?page=${pageParam}${country ? `&country=${country}` : ``}`)
+        authFetch(`http://localhost:3000/api/v1/leaderboard?page=${pageParam}${country ? `&country=${country}` : ``}`)
         .then(rep => {
             console.log(rep)
             setLeaderboardPlayer(() => rep.lb);

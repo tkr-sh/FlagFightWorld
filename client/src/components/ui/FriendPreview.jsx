@@ -23,7 +23,7 @@ const FriendPreview = ({name, profilePicture, country, refresh}) => {
             body: JSON.stringify({name: name})
         }
     
-        authFetch(`http://localhost:5000/api/v1/send-game-request`, requestOptions)
+        authFetch(`http://localhost:3000/api/v1/send-game-request`, requestOptions)
         .then(() => {document.location.href = `http://localhost:3000/game/waiting?type=friend&name=${name}`});
     }
 
@@ -34,7 +34,7 @@ const FriendPreview = ({name, profilePicture, country, refresh}) => {
             body: JSON.stringify({name: name})
         }
 
-        authFetch(`http://localhost:5000/api/v1/friend`, requestOptions)
+        authFetch(`http://localhost:3000/api/v1/friend`, requestOptions)
         .then(refresh);
     }
 
@@ -45,7 +45,7 @@ const FriendPreview = ({name, profilePicture, country, refresh}) => {
             body: JSON.stringify({name: name})
         }
 
-        authFetch(`http://localhost:5000/api/v1/block-user`, requestOptions)
+        authFetch(`http://localhost:3000/api/v1/block-user`, requestOptions)
         .then(refresh);
     }
 

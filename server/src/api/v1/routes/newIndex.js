@@ -38,7 +38,7 @@ router.get("/auth/google", passport.authenticate("google", { scope: ["profile", 
 router.get("/auth/google/callback",
     passport.authenticate("google", {
         session: false,
-        failureRedirect: "http://localhost:3000/",
+        failureRedirect: "https://www.flagfight.world/",
     }),
     async (req, res) => {
         const userData = req?.user?._json;
@@ -80,7 +80,7 @@ router.get("/auth/google/callback",
                     name: userData.name + (userWithSameName ? userWithSameName : ""), // The name of the user
                     email: userData.email, // The e-mail of the user
                     google: {id: userData.sub}, // It's google data
-                    pfp: userData.picture ?? "http://localhost:3000/user.png", // If the user as a pfp
+                    pfp: userData.picture ?? "https://www.flagfight.world/user.png", // If the user as a pfp
                 }
             );
 
@@ -95,7 +95,7 @@ router.get("/auth/github", passport.authenticate("github", { scope: ["profile", 
 router.get("/auth/github/callback",
     passport.authenticate("github", {
         session: false,
-        failureRedirect: "http://localhost:3000/",
+        failureRedirect: "https://www.flagfight.world/",
     }),
     async (req, res) => {
         const userData = req?.user?._json;
@@ -139,7 +139,7 @@ router.get("/auth/github/callback",
                     name: userData.name + (userWithSameName ? userWithSameName : ""), // The name of the user
                     email: userData.email, // The e-mail of the user
                     github: {id: userData.id}, // It's google data
-                    pfp: userData.avatar_url ?? "http://localhost:3000/user.png", // If the user as a pfp
+                    pfp: userData.avatar_url ?? "https://www.flagfight.world/user.png", // If the user as a pfp
                     bio: userData.bio ?? "-"
                 }
             );
@@ -155,7 +155,7 @@ router.get("/auth/discord", passport.authenticate("discord", { scope: ["profile"
 router.get("/auth/discord/callback",
     passport.authenticate("discord", {
         session: false,
-        failureRedirect: "http://localhost:3000/",
+        failureRedirect: "https://www.flagfight.world/",
     }),
     async (req, res) => {
         // const userData = req?.user?._json;
@@ -202,7 +202,7 @@ router.get("/auth/discord/callback",
                     discord: {id: userData.id}, // It's google data
                     pfp: userData.avatar !== null ?
                         `https://cdn.discordapp.com/avatars/${userData.id}/${userData.avatar}.png` :
-                        "http://localhost:3000/user.png", // If the user as a pfp
+                        "https://www.flagfight.world/user.png", // If the user as a pfp
                 }
             );
 

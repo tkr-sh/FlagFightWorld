@@ -31,7 +31,7 @@ const VerifyMail = () => {
 
 
 		// Verify the code for the email
-		await fetch("http://localhost:5000/auth/verify", requestOptions)
+		await fetch("http://localhost:3000/auth/verify", requestOptions)
 		.then(rep => rep.json())
 		.then(rep => {
 			if (rep.err !== null && rep.err !== undefined) {

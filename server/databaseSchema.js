@@ -124,7 +124,7 @@ const daily = new Schema(
 const notification = new Schema(
     {
         creation: { type: Date, default: new Date()},
-        image: { type: String, default: "http://localhost:3000/img.png" },
+        image: { type: String, default: "https://www.flagfight.world/img.png" },
         flag: {type: String, default: "xx" },
         title: { type: String },
         description: { type: String },

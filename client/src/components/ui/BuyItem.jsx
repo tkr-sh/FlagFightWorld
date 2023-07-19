@@ -14,7 +14,7 @@ const BuyItem = ({name, type, price, closeFunction, refresh=false, setBought}) =
     const { t, i18n } = useTranslation();
 
     const buyItem = () => {
-        authFetch("http://localhost:5000/api/v1/buy-article",
+        authFetch("http://localhost:3000/api/v1/buy-article",
             {
                 method: "POST",
                 headers: {

@@ -100,7 +100,7 @@ const Settings = () => {
      * Get blocked users
      */
     const getBlocked = () => {
-        authFetch('http://localhost:5000/api/v1/blocked-users')
+        authFetch('http://localhost:3000/api/v1/blocked-users')
         .then(rep => setBlockedUsers(rep));
     }
 
@@ -155,7 +155,7 @@ const Settings = () => {
             body: JSON.stringify({name: name})
         }
 
-        authFetch(`http://localhost:5000/api/v1/block-user`, requestOptions)
+        authFetch(`http://localhost:3000/api/v1/block-user`, requestOptions)
         .then(getBlocked);
     }
 

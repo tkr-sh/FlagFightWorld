@@ -96,11 +96,11 @@ const App = () => {
                     }
 
                     yesFunc = () => {
-                        authFetch(`http://localhost:5000/api/v1/send-friend-request`, requestOptions);
+                        authFetch(`http://localhost:3000/api/v1/send-friend-request`, requestOptions);
                     }
 
                     noFunc = () => {
-                        authFetch(`http://localhost:5000/api/v1/deny-friend-request`, requestOptions);
+                        authFetch(`http://localhost:3000/api/v1/deny-friend-request`, requestOptions);
                     }
                 } else {
                     yesFunc = () => document.location.href = `http://localhost:3000/game/waiting?type=friend&name=${data.name}`;
