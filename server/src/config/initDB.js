@@ -1,9 +1,6 @@
 import { MongoClient, ObjectId } from 'mongodb';
 import * as dotenv from 'dotenv';
 dotenv.config()
-// require('dotenv').config();
-// const uri = "mongodb+srv://tkirishima:Akuser00t!@cluster0.b4kpave.mongodb.net/?retryWrites=true&w=majority";
-// const client = new MongoClient(uri);
 
 export async function connectToCluster() {
     let mongoClient;
